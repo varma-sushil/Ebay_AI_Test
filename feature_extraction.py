@@ -209,39 +209,50 @@ def extract_features_from_images(images_list:list[Image.Image], schema_model: ty
     Fields to extract:
     {field_descriptions}
 
-    title: Write SEO-friendly eBay title with brand, item type, size, color, and key selling points. Max 80 characters.
-    Write a clear, professional eBay description using the information provided. Follow this format and logic:
-    description should be in max 867 characters.
-    Format:
-    Team: [If applicable — sports fan gear only, e.g., Pitt Panthers]
-    Brand: [e.g., Nike]
-    Item: [e.g., Hoodie]
-    Gender: [e.g., Mens, Womens, Boys, Girls]
-    Size: [Full label, e.g., Extra Large (XL)]
-    Measurements:
+    Title (Max 80 chars):
+    Generate an SEO-friendly eBay title including brand, item type, size, color, and key selling points.
+    Description (Max 867 chars):
+    Write a clear, professional eBay product description following these rules:
+
+    If Product is Clothing:
+    1. Team: Include only if item is sports fan gear (e.g., *Pitt Panthers*).
+    2. Color & Fit Confidence Check:
+       - If confidence is low and value is not null, add one or both notes:
+       - eg. "Color appears beige/tan/brown — see photos for best representation."
+             "Tag says Mens XL but fits closer to Mens Small — please refer to measurements."
+    3. Condition: Choose one: *New With Tags, New Without Tags, New With Defects, Excellent Pre-Owned, Good Pre-Owned, Fair Pre-Owned.
+        If pre-owned with flaws, add: "This item has [hole(s), pilling, faint stain(s), fading, loose threads, etc.]."
+    4. Measurements:
     Please see photos above for all measurements.
     Note: Item(s) may have been altered from the original tag size, so please confirm measurements in photos to ensure desired fit.
-    Color Notes or Fit Notes (only applicable if confident is low.):
-    - If color is borderline: "Color appears beige/tan/brown — see photos for best representation."
-    - If size tag doesn’t match actual fit: "Tag says Mens XL but fits closer to Mens Small — please refer to measurements."
-    Condition:
-    Select from: New With Tags, New Without Tags, New With Defects, Excellent Pre-Owned, Good Pre-Owned, Fair Pre-Owned.
-    If pre-owned and flawed, include notes like:
-    “This item has [hole(s), pilling, faint stain(s), fading, loose threads, etc.].”
+
+    If Product is Not Clothing (General Items)
+    1. Omit Gender and Fit language.
+    2. Replace Measurements section with:
+       "Please see photos for details and dimensions."
+    3. Replace Fit/Alteration notes with relevant points on:
+       - Functionality issues
+       - Missing parts
+       - Scratches/wear
+       - Original packaging (present/absent)
+
+    Description Format:
+    Team: [Only if applicable — sports fan gear only]  
+    Brand: [e.g., Nike]  
+    Item: [e.g., Hoodie]  
+    Gender: [e.g., Mens, Womens, Boys, Girls]  
+    Size: [Full label, e.g., Extra Large (XL)]
+    Measurements:
+    [Clothing: standard measurement text]
+    [Non-Clothing: general item text]
+    Color Notes: [Only if confidence is low]
+    Fit Notes: [Only if confidence is low]
+    Condition: [Condition String]
+    [Optional: Flaw Notes if pre-owned and flawed]
     Shipping & Customer Support:
     I will ship this item out with a tracking number for confirmation.
     Please feel free to ask any questions you may have.
     If there are any problems with your order, please message us ASAP so I can help resolve the issue quickly.
-    
-    If Not Clothing (General Items):
-        Omit gender/fit language and sizing notes. Instead:
-        Replace “Measurements” section with:
-        “Please see photos for details and dimensions.”
-        Replace any fit/alteration text with notes on:
-        Functionality
-        Missing parts
-        Scratches/wear
-        Original packaging presence/absence
 
     Output Format:
     {parser.get_format_instructions()}
@@ -272,7 +283,9 @@ def extract_features_from_images(images_list:list[Image.Image], schema_model: ty
         # print("Parsed pydantic model response:", raw.model_dump())
         parsed = raw.content.replace("```json", "").replace("```", "")
         # parsed = parser.parse(raw.content)
-        print("LLM response:", parsed)
+        parsed = parser.parse(raw.content)
+        data = parsed.model_dump()
+        print("LLM response:", data)
 
         # title_description = generate_title_and_description(llm, parsed)
         # final_data = json.loads(parsed)
@@ -285,7 +298,7 @@ def extract_features_from_images(images_list:list[Image.Image], schema_model: ty
     except Exception as e:
         raise RuntimeError(f"LLM invocation failed: {e}") from e
 
-    return parsed
+    return data
 
 
 if __name__ == '__main__':
@@ -293,8 +306,9 @@ if __name__ == '__main__':
     BASE_DIR = Path(__name__).parent.resolve()
     ASPECT_DATA_DIR = BASE_DIR / "extracted_suits_aspects.json"
     CLIENT_DATA_DIR = BASE_DIR / "client_rules.json"
-    IMAGE_DIR = BASE_DIR / "Archive 1" / "020754"
-    IMAGE_DIR = BASE_DIR / "Archive 1" / "020755"
+    IMAGE_DIR = BASE_DIR / "Archive 1" / "020750"
+    # IMAGE_DIR = BASE_DIR / "Archive 1" / "020754"
+    # IMAGE_DIR = BASE_DIR / "Archive 1" / "020755"
     # IMAGE_DIR = BASE_DIR / "Archive 1" / "020758"
 
     Product = get_pydantic_model(ASPECT_DATA_DIR, CLIENT_DATA_DIR)

@@ -97,7 +97,7 @@
             "default_value": ["Fall","Spring","Summer","Winter"]
         },
         "Jacket Vent Style": {
-            "help_text": "Identify the number and position of slits on the back of the jacket (e.g., 'Single Vent', 'Double Vent').",
+            "help_text": "Identify the number and position of slits on the back of the jacket (e.g., 'Single Vent', 'Double Vent', etc.).",
             "value_to_use":  [],
             "default_value": null
         },
