@@ -1,0 +1,17 @@
+*.venv
+*.csv
+__pycache__
+*.zip
+ai_agent.py
+test*.py
+scarper.py
+rag_test.py
+resolution_test.py
+pydantic_test.py
+compare*.json
+author*.json
+Archive 1
+gemini_test.py
+sample.jsonl
+scientist_scraper.py
+.env

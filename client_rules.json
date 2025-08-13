@@ -1,0 +1,154 @@
+{
+    "Suits and suits separate": {
+        "Brand": null,
+        "Type": {
+            "help_text": "Classify the product based on what it includes. Use 'Suit' if it includes both jacket and pants (or vest) (for two/three-piece suits). Use 'Blazer' if it is a jacket only. Use 'Suit Vest' if it is a vest only.",
+            "value_to_use": ["Suit", "Blazer", "Suit Vest"],
+            "default_value": null
+        },
+        "Size": {
+            "help_text": "Extract numeric size only from the garment size (e.g., return '44' from '44S').",
+            "value_to_use": [],
+            "default_value": null
+        },
+        "Size Type": {
+            "help_text": "Always set this field to 'Regular'.",
+            "value_to_use": [],
+            "default_value": "Regular"
+        },
+        "Color": {
+            "help_text": "Analyze images to detect the dominant color of the garment. Return only one primary color.",
+            "value_to_use": [],
+            "default_value": null
+        },
+        "Department": {
+            "help_text": "Always set this field to 'Men'.",
+            "value_to_use": [],
+            "default_value": "Men"
+        },
+        "Style": {
+            "help_text": "If it's a blazer or suit jacket only (one-piece or two-piece item), return '2 Piece'. If the product includes a vest, return '3 Piece'. If it's a tuxedo, return 'Tuxedo'.",
+            "value_to_use": [],
+            "default_value": "2 Piece"
+        },
+        "Chest Size": {
+            "help_text": "Extract the chest size from garment tags or labels; if missing, infer from measurement-scale images. Use allowed enum/literal values; if uncertain, return null.",
+            "value_to_use": [],
+            "default_value": null
+        },
+        "Jacket/Coat Length": {
+            "help_text": "Extract length suffix from size (e.g., 'S' in '46S') and map: S → Short, R → Regular, L → Long, XL → Extra Long.",
+            "value_to_use":  ["Short","Regular","Long","Extra Long"],
+            "default_value": null
+        },
+        "Material": null,
+        "Fit": {
+            "help_text": "Only return values like 'Classic Fit' or 'Slim Fit' if clearly printed on garment tags or manufacturer labels. Otherwise, return null.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Pattern": null,
+        "Theme": {
+            "help_text": "Include '80s', '90s', and 'Classic' by default. Add additional applicable themes based on design, style, or prints observed in the images.",
+            "value_to_use":  [],
+            "default_value": ["80s","90s","Classic"]    
+        },
+        "Lining Material": {
+            "help_text": "Only return lining material if it is explicitly mentioned on a tag or label. Otherwise, return null.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Fabric Type": null,
+        "Jacket Cut": null,
+        "Number of Pieces": {
+            "help_text": "Return '2 Piece' or '3 Piece' only for complete suits. Return null if the item is a single jacket or blazer",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Jacket Front Button Style": {
+            "help_text": "The value chosen should reflect the intended design (number of button holes), even if a button is missing. E.g., if there are two buttonholes but only one button, select 'Two-Button'.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Waist Size": {
+            "help_text": "If pants are included, extract waist size from the label or measurement. if missing, infer from measurement-scale images. Use allowed enum/literal values. If pants are not present, return null.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Occasion": {
+            "help_text": "Default to including all values: 'Business', 'Casual', 'Formal', 'Party/Cocktail', 'Travel', 'Wedding'.",
+            "value_to_use":  [],
+            "default_value": ["Business","Casual","Formal","Party/Cocktail","Travel","Wedding"]
+        },
+        "Jacket Lapel Style": null,
+        "Vintage": {
+            "help_text": "Return 'No' if the style, labels, or manufacturing features suggest the garment is modern. Return null if uncertain.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Country/Region of Manufacture": {
+            "help_text": "From the garment's tags, determine the country of manufacture. Your response must be exactly one value from the provided allowed enum list. Do not create new values. Do not use abbreviations or short forms — return the full official country name exactly as it appears in the enum list.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Season": {
+            "help_text": "Select all seasons: Fall, Spring, Summer, Winter. These apply to most suits unless explicitly marked otherwise.",
+            "value_to_use":  [],
+            "default_value": ["Fall","Spring","Summer","Winter"]
+        },
+        "Jacket Vent Style": {
+            "help_text": "Identify the number and position of slits on the back of the jacket (e.g., 'Single Vent', 'Double Vent').",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Inseam": {
+            "help_text": "If pants are included, extract inseam from measurement tags. if missing, infer from measurement-scale images. Use allowed enum/literal values. If not, return null.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Front Type": {
+            "help_text": "If pants are included, extract front type (e.g., 'Flat Front', 'Pleated') from the tag or visual style. Else, return null.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Features": {
+            "help_text": "Return 'Stretch' or 'Stain-Resistant' if stated on labels or notes. If no special features are noted, return 'Inner Pockets'.",
+            "value_to_use":  [],
+            "default_value": ["Inner Pockets"]
+        },
+        "Jacket Sleeve Button Style": {
+            "help_text": "If there's an inconsistency in the number of buttons between sleeves, choose the value corresponding to the sleeve with the most buttons (as this represents the intended style). Any discrepancy is noted as a defect. E.g., if one sleeve has 4 buttons and the other 3, select 'Four-Button'.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Leg Style": {
+            "help_text": "If pants are included, extract leg style (e.g., 'Straight', 'Tapered', etc.) from labels or visible styling. Else, return null.",
+            "value_to_use":  [],
+            "default_value": null
+        },
+        "Handmade": {
+            "help_text": "Return 'No' unless explicitly labeled as handmade.",
+            "value_to_use":  [],
+            "default_value": "No"
+        },
+        "Personalize": {
+            "help_text": "Always return 'No'. This category does not support personalization.",
+            "value_to_use":  [],
+            "default_value": "No"
+        },
+        "Garment Care": {
+            "help_text": "Default to 'Dry Clean Only'. Override only if garment explicitly mentions another method (e.g., 'Machine Washable', etc.).",
+            "value_to_use":  [],
+            "default_value": "Dry Clean Only"
+        },
+        "California Prop 65 Warning": null,
+        "MPN": null,
+        "Personalization Instructions": null,
+        "Unit Quantity": null,
+        "Unit Type": {
+            "help_text": "Always return 'Unit'.",
+            "value_to_use":  [],
+            "default_value": "Unit"
+        }
+    }
+}

@@ -1,0 +1,5369 @@
+[
+    {
+        "localizedAspectName": "Brand",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": true,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Unbranded"
+            },
+            {
+                "localizedValue": "!it"
+            },
+            {
+                "localizedValue": "100 Thieves"
+            },
+            {
+                "localizedValue": "1017 ALYX 9SM"
+            },
+            {
+                "localizedValue": "3.1 Phillip Lim"
+            },
+            {
+                "localizedValue": "45rpm"
+            },
+            {
+                "localizedValue": "7 Diamonds"
+            },
+            {
+                "localizedValue": "A&W"
+            },
+            {
+                "localizedValue": "Abercrombie & Fitch"
+            },
+            {
+                "localizedValue": "Acne Studios"
+            },
+            {
+                "localizedValue": "Adam"
+            },
+            {
+                "localizedValue": "Adam Hall"
+            },
+            {
+                "localizedValue": "Adam Kimmel"
+            },
+            {
+                "localizedValue": "Adams"
+            },
+            {
+                "localizedValue": "Adler"
+            },
+            {
+                "localizedValue": "Adolfo"
+            },
+            {
+                "localizedValue": "Affliction"
+            },
+            {
+                "localizedValue": "After Six"
+            },
+            {
+                "localizedValue": "Alan Flusser"
+            },
+            {
+                "localizedValue": "Alessandro"
+            },
+            {
+                "localizedValue": "ALEX"
+            },
+            {
+                "localizedValue": "Alexander"
+            },
+            {
+                "localizedValue": "Alexander Julian"
+            },
+            {
+                "localizedValue": "Alexander Lloyd"
+            },
+            {
+                "localizedValue": "Alexander McQueen"
+            },
+            {
+                "localizedValue": "Alexandra"
+            },
+            {
+                "localizedValue": "Alfani"
+            },
+            {
+                "localizedValue": "Alfani RED"
+            },
+            {
+                "localizedValue": "Allen Edmonds"
+            },
+            {
+                "localizedValue": "AllSaints"
+            },
+            {
+                "localizedValue": "Alpha"
+            },
+            {
+                "localizedValue": "Altea"
+            },
+            {
+                "localizedValue": "Alviero Martini"
+            },
+            {
+                "localizedValue": "American Living"
+            },
+            {
+                "localizedValue": "American Rag Cie"
+            },
+            {
+                "localizedValue": "Amina Rubinacci"
+            },
+            {
+                "localizedValue": "Anderson & Sheppard"
+            },
+            {
+                "localizedValue": "Andover"
+            },
+            {
+                "localizedValue": "Andrea"
+            },
+            {
+                "localizedValue": "Andrew Fezza"
+            },
+            {
+                "localizedValue": "Andrew MacKenzie"
+            },
+            {
+                "localizedValue": "Andrew Marc"
+            },
+            {
+                "localizedValue": "Angelino"
+            },
+            {
+                "localizedValue": "Angelo Litrico"
+            },
+            {
+                "localizedValue": "Ann Demeulemeester"
+            },
+            {
+                "localizedValue": "Anthony"
+            },
+            {
+                "localizedValue": "Antony Morato"
+            },
+            {
+                "localizedValue": "APC"
+            },
+            {
+                "localizedValue": "Apolis"
+            },
+            {
+                "localizedValue": "Apollo"
+            },
+            {
+                "localizedValue": "Apt. 9"
+            },
+            {
+                "localizedValue": "Aquascutum"
+            },
+            {
+                "localizedValue": "ARMANI"
+            },
+            {
+                "localizedValue": "Armani Collezioni"
+            },
+            {
+                "localizedValue": "Armani Exchange"
+            },
+            {
+                "localizedValue": "Arnold Brant"
+            },
+            {
+                "localizedValue": "Arnold Palmer"
+            },
+            {
+                "localizedValue": "Art"
+            },
+            {
+                "localizedValue": "Artful Dodger"
+            },
+            {
+                "localizedValue": "Ashley Stewart"
+            },
+            {
+                "localizedValue": "ASOS"
+            },
+            {
+                "localizedValue": "Aspesi"
+            },
+            {
+                "localizedValue": "Astor & Black"
+            },
+            {
+                "localizedValue": "Atelier"
+            },
+            {
+                "localizedValue": "Atwood"
+            },
+            {
+                "localizedValue": "August"
+            },
+            {
+                "localizedValue": "Austin"
+            },
+            {
+                "localizedValue": "Austin Manor"
+            },
+            {
+                "localizedValue": "Austin Reed"
+            },
+            {
+                "localizedValue": "Avanti"
+            },
+            {
+                "localizedValue": "Avoca"
+            },
+            {
+                "localizedValue": "Bachrach"
+            },
+            {
+                "localizedValue": "Bailey"
+            },
+            {
+                "localizedValue": "BALDESSARINI"
+            },
+            {
+                "localizedValue": "Balenciaga"
+            },
+            {
+                "localizedValue": "Ballantyne"
+            },
+            {
+                "localizedValue": "Bally"
+            },
+            {
+                "localizedValue": "Balmain"
+            },
+            {
+                "localizedValue": "Banana Republic"
+            },
+            {
+                "localizedValue": "Band of Outsiders"
+            },
+            {
+                "localizedValue": "Barabas"
+            },
+            {
+                "localizedValue": "Barba"
+            },
+            {
+                "localizedValue": "Barbour"
+            },
+            {
+                "localizedValue": "BARENA"
+            },
+            {
+                "localizedValue": "Bar III"
+            },
+            {
+                "localizedValue": "Barneys New York"
+            },
+            {
+                "localizedValue": "Barrington"
+            },
+            {
+                "localizedValue": "Barrister"
+            },
+            {
+                "localizedValue": "Bartolini"
+            },
+            {
+                "localizedValue": "BARUTTI"
+            },
+            {
+                "localizedValue": "Battistoni"
+            },
+            {
+                "localizedValue": "Bauer"
+            },
+            {
+                "localizedValue": "BCBGMAXAZRIA"
+            },
+            {
+                "localizedValue": "Bellini"
+            },
+            {
+                "localizedValue": "Belvest"
+            },
+            {
+                "localizedValue": "Ben Sherman"
+            },
+            {
+                "localizedValue": "Ben Silver"
+            },
+            {
+                "localizedValue": "Bentley"
+            },
+            {
+                "localizedValue": "Benvenuto"
+            },
+            {
+                "localizedValue": "BERGDORF GOODMAN"
+            },
+            {
+                "localizedValue": "Bernard Zins"
+            },
+            {
+                "localizedValue": "Berry"
+            },
+            {
+                "localizedValue": "Bespoke"
+            },
+            {
+                "localizedValue": "Best Tuxedo"
+            },
+            {
+                "localizedValue": "Betabrand"
+            },
+            {
+                "localizedValue": "Beverly Hills Polo Club"
+            },
+            {
+                "localizedValue": "Bianchi"
+            },
+            {
+                "localizedValue": "Bijan"
+            },
+            {
+                "localizedValue": "Bill Blass"
+            },
+            {
+                "localizedValue": "Billy Reid"
+            },
+            {
+                "localizedValue": "Black Brown 1826"
+            },
+            {
+                "localizedValue": "Blade"
+            },
+            {
+                "localizedValue": "Blazer"
+            },
+            {
+                "localizedValue": "BLK DNM"
+            },
+            {
+                "localizedValue": "Bloomingdale's"
+            },
+            {
+                "localizedValue": "Blue"
+            },
+            {
+                "localizedValue": "Blu Martini"
+            },
+            {
+                "localizedValue": "Bobby Jones"
+            },
+            {
+                "localizedValue": "Boggi Milano"
+            },
+            {
+                "localizedValue": "Boglioli"
+            },
+            {
+                "localizedValue": "Bogner"
+            },
+            {
+                "localizedValue": "Bond"
+            },
+            {
+                "localizedValue": "Bonobos"
+            },
+            {
+                "localizedValue": "Boohoo"
+            },
+            {
+                "localizedValue": "Boot Boyz Biz"
+            },
+            {
+                "localizedValue": "Borrelli"
+            },
+            {
+                "localizedValue": "Boss"
+            },
+            {
+                "localizedValue": "Boston"
+            },
+            {
+                "localizedValue": "Botany 500"
+            },
+            {
+                "localizedValue": "Bottega Veneta"
+            },
+            {
+                "localizedValue": "Bradley"
+            },
+            {
+                "localizedValue": "Braggi"
+            },
+            {
+                "localizedValue": "Brain Dead"
+            },
+            {
+                "localizedValue": "Brandini"
+            },
+            {
+                "localizedValue": "Braveman"
+            },
+            {
+                "localizedValue": "Bravest Studio"
+            },
+            {
+                "localizedValue": "Breakwater"
+            },
+            {
+                "localizedValue": "Brioni"
+            },
+            {
+                "localizedValue": "Broken Planet"
+            },
+            {
+                "localizedValue": "Brooks"
+            },
+            {
+                "localizedValue": "Brooks Brothers"
+            },
+            {
+                "localizedValue": "Brook Taverner"
+            },
+            {
+                "localizedValue": "Brunello Cucinelli"
+            },
+            {
+                "localizedValue": "Bruno"
+            },
+            {
+                "localizedValue": "Buffalo by David Bitton"
+            },
+            {
+                "localizedValue": "BUGATCHI"
+            },
+            {
+                "localizedValue": "Bugatti"
+            },
+            {
+                "localizedValue": "Bullock & Jones"
+            },
+            {
+                "localizedValue": "Burberry"
+            },
+            {
+                "localizedValue": "Burberry London"
+            },
+            {
+                "localizedValue": "Burton"
+            },
+            {
+                "localizedValue": "Byron"
+            },
+            {
+                "localizedValue": "C&A"
+            },
+            {
+                "localizedValue": "Cacharel"
+            },
+            {
+                "localizedValue": "Calvin Klein"
+            },
+            {
+                "localizedValue": "Calvin Klein Collection"
+            },
+            {
+                "localizedValue": "Cambridge"
+            },
+            {
+                "localizedValue": "Camel"
+            },
+            {
+                "localizedValue": "Camel Active"
+            },
+            {
+                "localizedValue": "Canali"
+            },
+            {
+                "localizedValue": "CANTARELLI"
+            },
+            {
+                "localizedValue": "Capri"
+            },
+            {
+                "localizedValue": "Caravelli"
+            },
+            {
+                "localizedValue": "Cardinal"
+            },
+            {
+                "localizedValue": "Carl Gross"
+            },
+            {
+                "localizedValue": "Carlo Palazzi"
+            },
+            {
+                "localizedValue": "Carlo Pignatelli"
+            },
+            {
+                "localizedValue": "Carlos"
+            },
+            {
+                "localizedValue": "Carolina Herrera"
+            },
+            {
+                "localizedValue": "Carson"
+            },
+            {
+                "localizedValue": "Carter"
+            },
+            {
+                "localizedValue": "Caruso"
+            },
+            {
+                "localizedValue": "Carven"
+            },
+            {
+                "localizedValue": "Castle"
+            },
+            {
+                "localizedValue": "Casual"
+            },
+            {
+                "localizedValue": "Cavalli"
+            },
+            {
+                "localizedValue": "Cavani"
+            },
+            {
+                "localizedValue": "CELINE"
+            },
+            {
+                "localizedValue": "Cellini"
+            },
+            {
+                "localizedValue": "Cerruti"
+            },
+            {
+                "localizedValue": "Cerruti 1881"
+            },
+            {
+                "localizedValue": "Cesare Attolini"
+            },
+            {
+                "localizedValue": "CEZANNE"
+            },
+            {
+                "localizedValue": "Champion"
+            },
+            {
+                "localizedValue": "Chaps"
+            },
+            {
+                "localizedValue": "Charles Klein"
+            },
+            {
+                "localizedValue": "Charles Tyrwhitt"
+            },
+            {
+                "localizedValue": "Charvet"
+            },
+            {
+                "localizedValue": "Chereskin"
+            },
+            {
+                "localizedValue": "Cherokee"
+            },
+            {
+                "localizedValue": "Chester Barrie"
+            },
+            {
+                "localizedValue": "Chipp"
+            },
+            {
+                "localizedValue": "Christian Berg"
+            },
+            {
+                "localizedValue": "Christian Brooks"
+            },
+            {
+                "localizedValue": "Christian Lacroix"
+            },
+            {
+                "localizedValue": "Cinque"
+            },
+            {
+                "localizedValue": "Circle S"
+            },
+            {
+                "localizedValue": "Citron"
+            },
+            {
+                "localizedValue": "City Morgue"
+            },
+            {
+                "localizedValue": "City Streets"
+            },
+            {
+                "localizedValue": "Claiborne"
+            },
+            {
+                "localizedValue": "Claire's"
+            },
+            {
+                "localizedValue": "Clipper"
+            },
+            {
+                "localizedValue": "Closed"
+            },
+            {
+                "localizedValue": "Cloth"
+            },
+            {
+                "localizedValue": "Cloudstyle"
+            },
+            {
+                "localizedValue": "Club"
+            },
+            {
+                "localizedValue": "Club Monaco"
+            },
+            {
+                "localizedValue": "Club Room"
+            },
+            {
+                "localizedValue": "CNC"
+            },
+            {
+                "localizedValue": "Coach"
+            },
+            {
+                "localizedValue": "Coleman"
+            },
+            {
+                "localizedValue": "Colmar"
+            },
+            {
+                "localizedValue": "Comme Des Garcons"
+            },
+            {
+                "localizedValue": "Concepts by Claiborne"
+            },
+            {
+                "localizedValue": "Cooper"
+            },
+            {
+                "localizedValue": "Coppley"
+            },
+            {
+                "localizedValue": "Corbin"
+            },
+            {
+                "localizedValue": "Corneliani"
+            },
+            {
+                "localizedValue": "Cortefiel"
+            },
+            {
+                "localizedValue": "Corteiz"
+            },
+            {
+                "localizedValue": "Costume National"
+            },
+            {
+                "localizedValue": "Covington"
+            },
+            {
+                "localizedValue": "CR"
+            },
+            {
+                "localizedValue": "Craig Green"
+            },
+            {
+                "localizedValue": "Cremieux"
+            },
+            {
+                "localizedValue": "Cricketeer"
+            },
+            {
+                "localizedValue": "Croft & Barrow"
+            },
+            {
+                "localizedValue": "Crombie"
+            },
+            {
+                "localizedValue": "Cross"
+            },
+            {
+                "localizedValue": "Crown"
+            },
+            {
+                "localizedValue": "Cruciani"
+            },
+            {
+                "localizedValue": "Cubavera"
+            },
+            {
+                "localizedValue": "Customized & Personalized"
+            },
+            {
+                "localizedValue": "Custommade"
+            },
+            {
+                "localizedValue": "Cutter & Buck"
+            },
+            {
+                "localizedValue": "Cyrillus"
+            },
+            {
+                "localizedValue": "d'Avenza"
+            },
+            {
+                "localizedValue": "DAKS"
+            },
+            {
+                "localizedValue": "Daniel Cremieux"
+            },
+            {
+                "localizedValue": "Daniele Alessandrini"
+            },
+            {
+                "localizedValue": "Daniel Hechter"
+            },
+            {
+                "localizedValue": "David Donahue"
+            },
+            {
+                "localizedValue": "Davide Cenci"
+            },
+            {
+                "localizedValue": "Davies"
+            },
+            {
+                "localizedValue": "Davis & Squire"
+            },
+            {
+                "localizedValue": "Debenhams"
+            },
+            {
+                "localizedValue": "Dell"
+            },
+            {
+                "localizedValue": "DENIM TEARS"
+            },
+            {
+                "localizedValue": "Designer"
+            },
+            {
+                "localizedValue": "Diadora"
+            },
+            {
+                "localizedValue": "Diesel"
+            },
+            {
+                "localizedValue": "Digel"
+            },
+            {
+                "localizedValue": "Dior"
+            },
+            {
+                "localizedValue": "District"
+            },
+            {
+                "localizedValue": "DKNY"
+            },
+            {
+                "localizedValue": "Dobell"
+            },
+            {
+                "localizedValue": "DOCKERS"
+            },
+            {
+                "localizedValue": "Dolc'e"
+            },
+            {
+                "localizedValue": "Dolce&Gabbana"
+            },
+            {
+                "localizedValue": "Domenico Vacca"
+            },
+            {
+                "localizedValue": "Dominique"
+            },
+            {
+                "localizedValue": "Donald J. Trump"
+            },
+            {
+                "localizedValue": "Donna Karan"
+            },
+            {
+                "localizedValue": "Dormeuil"
+            },
+            {
+                "localizedValue": "Drake"
+            },
+            {
+                "localizedValue": "drew house"
+            },
+            {
+                "localizedValue": "DRIES VAN NOTEN"
+            },
+            {
+                "localizedValue": "Drykorn"
+            },
+            {
+                "localizedValue": "Dsquared2"
+            },
+            {
+                "localizedValue": "Duchamp"
+            },
+            {
+                "localizedValue": "Duke"
+            },
+            {
+                "localizedValue": "Duluth"
+            },
+            {
+                "localizedValue": "dunhill"
+            },
+            {
+                "localizedValue": "Dunn & Co., Inc."
+            },
+            {
+                "localizedValue": "DYNASTY"
+            },
+            {
+                "localizedValue": "Eagle"
+            },
+            {
+                "localizedValue": "Eaton"
+            },
+            {
+                "localizedValue": "Eddie Bauer"
+            },
+            {
+                "localizedValue": "Ede & Ravenscroft"
+            },
+            {
+                "localizedValue": "EDUARD DRESSLER"
+            },
+            {
+                "localizedValue": "Edward"
+            },
+            {
+                "localizedValue": "Edwin"
+            },
+            {
+                "localizedValue": "Eidos"
+            },
+            {
+                "localizedValue": "Eleven Paris"
+            },
+            {
+                "localizedValue": "Eleventy"
+            },
+            {
+                "localizedValue": "Elie Tahari"
+            },
+            {
+                "localizedValue": "Emanuel Ungaro"
+            },
+            {
+                "localizedValue": "EMMANUELLE KHANH"
+            },
+            {
+                "localizedValue": "Emporio Armani"
+            },
+            {
+                "localizedValue": "Engineered Garments"
+            },
+            {
+                "localizedValue": "England"
+            },
+            {
+                "localizedValue": "English Laundry"
+            },
+            {
+                "localizedValue": "English Manor"
+            },
+            {
+                "localizedValue": "Enrico"
+            },
+            {
+                "localizedValue": "Enzo"
+            },
+            {
+                "localizedValue": "Ermanno Scervino"
+            },
+            {
+                "localizedValue": "Ermenegildo Zegna"
+            },
+            {
+                "localizedValue": "Esprit"
+            },
+            {
+                "localizedValue": "ETRO"
+            },
+            {
+                "localizedValue": "Evan Picone"
+            },
+            {
+                "localizedValue": "Everest"
+            },
+            {
+                "localizedValue": "Express"
+            },
+            {
+                "localizedValue": "EXTE'"
+            },
+            {
+                "localizedValue": "Fa\u00e7onnable"
+            },
+            {
+                "localizedValue": "Faith Connexion"
+            },
+            {
+                "localizedValue": "Falcone"
+            },
+            {
+                "localizedValue": "Farah"
+            },
+            {
+                "localizedValue": "Fedeli"
+            },
+            {
+                "localizedValue": "Fellini"
+            },
+            {
+                "localizedValue": "Fendi"
+            },
+            {
+                "localizedValue": "Ferrari"
+            },
+            {
+                "localizedValue": "Ferrecci"
+            },
+            {
+                "localizedValue": "Ferretti"
+            },
+            {
+                "localizedValue": "FILA"
+            },
+            {
+                "localizedValue": "Filippa K"
+            },
+            {
+                "localizedValue": "Filson"
+            },
+            {
+                "localizedValue": "Finamore Napoli"
+            },
+            {
+                "localizedValue": "FIORAVANTI"
+            },
+            {
+                "localizedValue": "Flying Cross"
+            },
+            {
+                "localizedValue": "Fox"
+            },
+            {
+                "localizedValue": "Franco"
+            },
+            {
+                "localizedValue": "Fred"
+            },
+            {
+                "localizedValue": "Freeman"
+            },
+            {
+                "localizedValue": "French Connection"
+            },
+            {
+                "localizedValue": "Frontier Classics"
+            },
+            {
+                "localizedValue": "Gabicci"
+            },
+            {
+                "localizedValue": "Gallery Dept."
+            },
+            {
+                "localizedValue": "GANT"
+            },
+            {
+                "localizedValue": "Gap"
+            },
+            {
+                "localizedValue": "Gene Meyer"
+            },
+            {
+                "localizedValue": "Geoffrey Beene"
+            },
+            {
+                "localizedValue": "George"
+            },
+            {
+                "localizedValue": "Gerry Weber"
+            },
+            {
+                "localizedValue": "GGS"
+            },
+            {
+                "localizedValue": "Gianfranco Ruffini"
+            },
+            {
+                "localizedValue": "Gianluca Isaia"
+            },
+            {
+                "localizedValue": "Gianni"
+            },
+            {
+                "localizedValue": "Gibson"
+            },
+            {
+                "localizedValue": "Gieves & Hawkes"
+            },
+            {
+                "localizedValue": "Gilbert"
+            },
+            {
+                "localizedValue": "Gino Valentino"
+            },
+            {
+                "localizedValue": "Giorgio Armani"
+            },
+            {
+                "localizedValue": "Giorgio Cosani"
+            },
+            {
+                "localizedValue": "Giorgio Fiorelli"
+            },
+            {
+                "localizedValue": "Giorgio Sant'Angelo"
+            },
+            {
+                "localizedValue": "Giovanni"
+            },
+            {
+                "localizedValue": "Gitman Bros."
+            },
+            {
+                "localizedValue": "Givenchy"
+            },
+            {
+                "localizedValue": "Grant Thomas"
+            },
+            {
+                "localizedValue": "Greg Norman"
+            },
+            {
+                "localizedValue": "G-Star"
+            },
+            {
+                "localizedValue": "Gucci"
+            },
+            {
+                "localizedValue": "GUESS"
+            },
+            {
+                "localizedValue": "Guide London"
+            },
+            {
+                "localizedValue": "Guy Laroche"
+            },
+            {
+                "localizedValue": "H&M"
+            },
+            {
+                "localizedValue": "Haband"
+            },
+            {
+                "localizedValue": "Hackett"
+            },
+            {
+                "localizedValue": "Hackett London"
+            },
+            {
+                "localizedValue": "Haggar"
+            },
+            {
+                "localizedValue": "HAIDER ACKERMANN"
+            },
+            {
+                "localizedValue": "Handmade"
+            },
+            {
+                "localizedValue": "Hardy"
+            },
+            {
+                "localizedValue": "Hardy Amies"
+            },
+            {
+                "localizedValue": "Harold Powell"
+            },
+            {
+                "localizedValue": "Harris"
+            },
+            {
+                "localizedValue": "Harrison"
+            },
+            {
+                "localizedValue": "Harris Tweed"
+            },
+            {
+                "localizedValue": "Harrods"
+            },
+            {
+                "localizedValue": "Harry Brown"
+            },
+            {
+                "localizedValue": "HART"
+            },
+            {
+                "localizedValue": "Hart Schaffner Marx"
+            },
+            {
+                "localizedValue": "Haspel"
+            },
+            {
+                "localizedValue": "Hawes & Curtis"
+            },
+            {
+                "localizedValue": "Heath"
+            },
+            {
+                "localizedValue": "hellstar"
+            },
+            {
+                "localizedValue": "Helly Hansen"
+            },
+            {
+                "localizedValue": "Henry"
+            },
+            {
+                "localizedValue": "Henry Poole"
+            },
+            {
+                "localizedValue": "Heron Preston"
+            },
+            {
+                "localizedValue": "Hickey Freeman"
+            },
+            {
+                "localizedValue": "Hilton"
+            },
+            {
+                "localizedValue": "Holland & Sherry"
+            },
+            {
+                "localizedValue": "Holland Esquire"
+            },
+            {
+                "localizedValue": "House"
+            },
+            {
+                "localizedValue": "Howe"
+            },
+            {
+                "localizedValue": "Howick Tailored"
+            },
+            {
+                "localizedValue": "Hudson"
+            },
+            {
+                "localizedValue": "Hughes"
+            },
+            {
+                "localizedValue": "HUGO BOSS"
+            },
+            {
+                "localizedValue": "HUMAN MADE"
+            },
+            {
+                "localizedValue": "Hunting Horn"
+            },
+            {
+                "localizedValue": "Huntsman"
+            },
+            {
+                "localizedValue": "Hyde"
+            },
+            {
+                "localizedValue": "Ibiza"
+            },
+            {
+                "localizedValue": "Ideal"
+            },
+            {
+                "localizedValue": "Imperial"
+            },
+            {
+                "localizedValue": "INC International Concepts"
+            },
+            {
+                "localizedValue": "INCOTEX"
+            },
+            {
+                "localizedValue": "Indochino"
+            },
+            {
+                "localizedValue": "Inserch"
+            },
+            {
+                "localizedValue": "isaia"
+            },
+            {
+                "localizedValue": "ISSEY MIYAKE"
+            },
+            {
+                "localizedValue": "Italia"
+            },
+            {
+                "localizedValue": "IZOD"
+            },
+            {
+                "localizedValue": "J"
+            },
+            {
+                "localizedValue": "J. C. Penney"
+            },
+            {
+                "localizedValue": "J.CREW"
+            },
+            {
+                "localizedValue": "J. Ferrar"
+            },
+            {
+                "localizedValue": "J.Lindeberg"
+            },
+            {
+                "localizedValue": "J. Peterman"
+            },
+            {
+                "localizedValue": "J. Press"
+            },
+            {
+                "localizedValue": "Jacamo"
+            },
+            {
+                "localizedValue": "JACK"
+            },
+            {
+                "localizedValue": "JACK & JONES"
+            },
+            {
+                "localizedValue": "Jack Nicklaus"
+            },
+            {
+                "localizedValue": "Jack Victor"
+            },
+            {
+                "localizedValue": "Jack Wills"
+            },
+            {
+                "localizedValue": "Jaeger"
+            },
+            {
+                "localizedValue": "Jagermeister"
+            },
+            {
+                "localizedValue": "Jaguar"
+            },
+            {
+                "localizedValue": "Jasper Conran"
+            },
+            {
+                "localizedValue": "Jaymar"
+            },
+            {
+                "localizedValue": "Jean Paul Gaultier"
+            },
+            {
+                "localizedValue": "Jean Yves"
+            },
+            {
+                "localizedValue": "Jeff Banks"
+            },
+            {
+                "localizedValue": "Jeffery~West"
+            },
+            {
+                "localizedValue": "Jeffrey Banks"
+            },
+            {
+                "localizedValue": "Jhane Barnes"
+            },
+            {
+                "localizedValue": "Jil Sander"
+            },
+            {
+                "localizedValue": "JJJJound"
+            },
+            {
+                "localizedValue": "Joe's Jeans"
+            },
+            {
+                "localizedValue": "John Alexander"
+            },
+            {
+                "localizedValue": "John Ashford"
+            },
+            {
+                "localizedValue": "John Bartlett"
+            },
+            {
+                "localizedValue": "John Blair"
+            },
+            {
+                "localizedValue": "John Henry"
+            },
+            {
+                "localizedValue": "John Lewis"
+            },
+            {
+                "localizedValue": "John Richmond"
+            },
+            {
+                "localizedValue": "John Varvatos"
+            },
+            {
+                "localizedValue": "John W. Nordstrom"
+            },
+            {
+                "localizedValue": "John Weitz"
+            },
+            {
+                "localizedValue": "Jonathan Saunders"
+            },
+            {
+                "localizedValue": "Jones"
+            },
+            {
+                "localizedValue": "Jones New York"
+            },
+            {
+                "localizedValue": "JOOP!"
+            },
+            {
+                "localizedValue": "Jos. A. Bank"
+            },
+            {
+                "localizedValue": "Joseph"
+            },
+            {
+                "localizedValue": "Joseph & Feiss"
+            },
+            {
+                "localizedValue": "Joseph Abboud"
+            },
+            {
+                "localizedValue": "Juicy Couture"
+            },
+            {
+                "localizedValue": "Junya Watanabe"
+            },
+            {
+                "localizedValue": "Just Cavalli"
+            },
+            {
+                "localizedValue": "Kakadu Pet"
+            },
+            {
+                "localizedValue": "Karl Lagerfeld"
+            },
+            {
+                "localizedValue": "Kasper"
+            },
+            {
+                "localizedValue": "Kenneth Cole"
+            },
+            {
+                "localizedValue": "Kenneth Cole Reaction"
+            },
+            {
+                "localizedValue": "Kenneth Roberts Platinum"
+            },
+            {
+                "localizedValue": "Kent"
+            },
+            {
+                "localizedValue": "Kent & Curwen"
+            },
+            {
+                "localizedValue": "KENZO"
+            },
+            {
+                "localizedValue": "Kiko Kostanidov"
+            },
+            {
+                "localizedValue": "Kilgour"
+            },
+            {
+                "localizedValue": "Kingsridge"
+            },
+            {
+                "localizedValue": "Kiton"
+            },
+            {
+                "localizedValue": "Kitri"
+            },
+            {
+                "localizedValue": "Kodak Black"
+            },
+            {
+                "localizedValue": "Kris Van Assche"
+            },
+            {
+                "localizedValue": "Krizia"
+            },
+            {
+                "localizedValue": "Kroon"
+            },
+            {
+                "localizedValue": "Kuppenheimer"
+            },
+            {
+                "localizedValue": "L.L. Bean"
+            },
+            {
+                "localizedValue": "La Crosse"
+            },
+            {
+                "localizedValue": "Landhaus"
+            },
+            {
+                "localizedValue": "Lands' End"
+            },
+            {
+                "localizedValue": "Lane"
+            },
+            {
+                "localizedValue": "Lanvin"
+            },
+            {
+                "localizedValue": "Lardini"
+            },
+            {
+                "localizedValue": "LAT"
+            },
+            {
+                "localizedValue": "Lauren"
+            },
+            {
+                "localizedValue": "Lauren Ralph Lauren"
+            },
+            {
+                "localizedValue": "LE"
+            },
+            {
+                "localizedValue": "Leader"
+            },
+            {
+                "localizedValue": "Leonard"
+            },
+            {
+                "localizedValue": "Levi's"
+            },
+            {
+                "localizedValue": "Lilly Pulitzer"
+            },
+            {
+                "localizedValue": "Limehaus"
+            },
+            {
+                "localizedValue": "Limited Edition"
+            },
+            {
+                "localizedValue": "Line"
+            },
+            {
+                "localizedValue": "Linea by Louis Dell'Olio"
+            },
+            {
+                "localizedValue": "Linea Uomo"
+            },
+            {
+                "localizedValue": "Linus"
+            },
+            {
+                "localizedValue": "LLOYD"
+            },
+            {
+                "localizedValue": "LOFT"
+            },
+            {
+                "localizedValue": "Look"
+            },
+            {
+                "localizedValue": "LORD & TAYLOR"
+            },
+            {
+                "localizedValue": "Lord R Colton"
+            },
+            {
+                "localizedValue": "Lord West"
+            },
+            {
+                "localizedValue": "Loro Piana"
+            },
+            {
+                "localizedValue": "Louis Feraud"
+            },
+            {
+                "localizedValue": "Louis Philippe"
+            },
+            {
+                "localizedValue": "Louis Roth"
+            },
+            {
+                "localizedValue": "Louis Vuitton"
+            },
+            {
+                "localizedValue": "Lubiam"
+            },
+            {
+                "localizedValue": "Luca Luca"
+            },
+            {
+                "localizedValue": "Luciano Barbera"
+            },
+            {
+                "localizedValue": "Luigi Bianchi Mantova"
+            },
+            {
+                "localizedValue": "Luigi Borrelli"
+            },
+            {
+                "localizedValue": "Maas"
+            },
+            {
+                "localizedValue": "Made in Italy"
+            },
+            {
+                "localizedValue": "Magee"
+            },
+            {
+                "localizedValue": "Maine"
+            },
+            {
+                "localizedValue": "Maison Margiela"
+            },
+            {
+                "localizedValue": "Mango"
+            },
+            {
+                "localizedValue": "Mani"
+            },
+            {
+                "localizedValue": "Manuel Ritz"
+            },
+            {
+                "localizedValue": "Manzini"
+            },
+            {
+                "localizedValue": "MARC"
+            },
+            {
+                "localizedValue": "Marc Anthony"
+            },
+            {
+                "localizedValue": "Marc by Marc Jacobs"
+            },
+            {
+                "localizedValue": "Marc Ecko"
+            },
+            {
+                "localizedValue": "Marcello"
+            },
+            {
+                "localizedValue": "Marchatti"
+            },
+            {
+                "localizedValue": "Marc Jacobs"
+            },
+            {
+                "localizedValue": "Marc New York"
+            },
+            {
+                "localizedValue": "Margaret Howell"
+            },
+            {
+                "localizedValue": "Marine Layer"
+            },
+            {
+                "localizedValue": "Marine Serre"
+            },
+            {
+                "localizedValue": "Mario Matteo"
+            },
+            {
+                "localizedValue": "Mark Alexander"
+            },
+            {
+                "localizedValue": "Marks and Spencer"
+            },
+            {
+                "localizedValue": "Marni"
+            },
+            {
+                "localizedValue": "Marshall Field's"
+            },
+            {
+                "localizedValue": "Martin"
+            },
+            {
+                "localizedValue": "Martin + Osa"
+            },
+            {
+                "localizedValue": "Martin Greenfield"
+            },
+            {
+                "localizedValue": "Martini"
+            },
+            {
+                "localizedValue": "Marzotto"
+            },
+            {
+                "localizedValue": "Massimo Dutti"
+            },
+            {
+                "localizedValue": "Master"
+            },
+            {
+                "localizedValue": "Matsuda"
+            },
+            {
+                "localizedValue": "Maxwell"
+            },
+            {
+                "localizedValue": "McGregor"
+            },
+            {
+                "localizedValue": "MCNEAL"
+            },
+            {
+                "localizedValue": "Merona"
+            },
+            {
+                "localizedValue": "Messagerie"
+            },
+            {
+                "localizedValue": "Metalwood Studio"
+            },
+            {
+                "localizedValue": "Mexx"
+            },
+            {
+                "localizedValue": "MFH"
+            },
+            {
+                "localizedValue": "MICHAEL BASTIAN"
+            },
+            {
+                "localizedValue": "Michael Kors"
+            },
+            {
+                "localizedValue": "MICHELE"
+            },
+            {
+                "localizedValue": "Milano"
+            },
+            {
+                "localizedValue": "Miller"
+            },
+            {
+                "localizedValue": "Mills"
+            },
+            {
+                "localizedValue": "Missoni"
+            },
+            {
+                "localizedValue": "Mitchell"
+            },
+            {
+                "localizedValue": "Moda"
+            },
+            {
+                "localizedValue": "Modern"
+            },
+            {
+                "localizedValue": "MODO"
+            },
+            {
+                "localizedValue": "Mondo di Marco"
+            },
+            {
+                "localizedValue": "Moschino"
+            },
+            {
+                "localizedValue": "MR TURK"
+            },
+            {
+                "localizedValue": "Mugler"
+            },
+            {
+                "localizedValue": "MUJI"
+            },
+            {
+                "localizedValue": "Mulberry"
+            },
+            {
+                "localizedValue": "Murano"
+            },
+            {
+                "localizedValue": "Mutant Ape Yacht Club"
+            },
+            {
+                "localizedValue": "Napapijri"
+            },
+            {
+                "localizedValue": "Napoli"
+            },
+            {
+                "localizedValue": "NATHAN"
+            },
+            {
+                "localizedValue": "Nautica"
+            },
+            {
+                "localizedValue": "NAVY"
+            },
+            {
+                "localizedValue": "Neil Barrett"
+            },
+            {
+                "localizedValue": "Neiman Marcus"
+            },
+            {
+                "localizedValue": "New Look"
+            },
+            {
+                "localizedValue": "New York"
+            },
+            {
+                "localizedValue": "NEXT"
+            },
+            {
+                "localizedValue": "Nick Hilton"
+            },
+            {
+                "localizedValue": "NICOLE FARHI"
+            },
+            {
+                "localizedValue": "Nicole Miller"
+            },
+            {
+                "localizedValue": "Nina Ricci"
+            },
+            {
+                "localizedValue": "Nino Cerruti"
+            },
+            {
+                "localizedValue": "Noblu"
+            },
+            {
+                "localizedValue": "Noir"
+            },
+            {
+                "localizedValue": "Nordstrom"
+            },
+            {
+                "localizedValue": "Norm Thompson"
+            },
+            {
+                "localizedValue": "Nudie"
+            },
+            {
+                "localizedValue": "O'Neal"
+            },
+            {
+                "localizedValue": "Oak Creek"
+            },
+            {
+                "localizedValue": "Oakton"
+            },
+            {
+                "localizedValue": "Odermark"
+            },
+            {
+                "localizedValue": "Oleg Cassini"
+            },
+            {
+                "localizedValue": "Oliver"
+            },
+            {
+                "localizedValue": "Oliver Spencer"
+            },
+            {
+                "localizedValue": "Online Ceramics"
+            },
+            {
+                "localizedValue": "Only"
+            },
+            {
+                "localizedValue": "OppoSuits"
+            },
+            {
+                "localizedValue": "Orazio Luciano"
+            },
+            {
+                "localizedValue": "Original Penguin"
+            },
+            {
+                "localizedValue": "Orvis"
+            },
+            {
+                "localizedValue": "Oscar de la Renta"
+            },
+            {
+                "localizedValue": "Oscar Jacobson"
+            },
+            {
+                "localizedValue": "OshKosh B'gosh"
+            },
+            {
+                "localizedValue": "Other"
+            },
+            {
+                "localizedValue": "Oxxford"
+            },
+            {
+                "localizedValue": "Ozwald Boateng"
+            },
+            {
+                "localizedValue": "PACO"
+            },
+            {
+                "localizedValue": "Paco Rabanne"
+            },
+            {
+                "localizedValue": "PalmBeach"
+            },
+            {
+                "localizedValue": "Pal Zileri"
+            },
+            {
+                "localizedValue": "Park Avenue"
+            },
+            {
+                "localizedValue": "Party"
+            },
+            {
+                "localizedValue": "Patagonia"
+            },
+            {
+                "localizedValue": "Patrick James"
+            },
+            {
+                "localizedValue": "PAUL & JOE"
+            },
+            {
+                "localizedValue": "Paul Costelloe"
+            },
+            {
+                "localizedValue": "Paul Fredrick"
+            },
+            {
+                "localizedValue": "Paul Smith"
+            },
+            {
+                "localizedValue": "Paul Stuart"
+            },
+            {
+                "localizedValue": "Peck & Peck"
+            },
+            {
+                "localizedValue": "Pendleton"
+            },
+            {
+                "localizedValue": "Penguin"
+            },
+            {
+                "localizedValue": "Perfect Fit"
+            },
+            {
+                "localizedValue": "Perry Ellis"
+            },
+            {
+                "localizedValue": "Peter Millar"
+            },
+            {
+                "localizedValue": "Peter Werth"
+            },
+            {
+                "localizedValue": "Petrocelli"
+            },
+            {
+                "localizedValue": "Phat Farm"
+            },
+            {
+                "localizedValue": "Philipp Plein"
+            },
+            {
+                "localizedValue": "Phonix"
+            },
+            {
+                "localizedValue": "Pierre Balmain"
+            },
+            {
+                "localizedValue": "Pierre Cardin"
+            },
+            {
+                "localizedValue": "PINK"
+            },
+            {
+                "localizedValue": "Pioneer Wear"
+            },
+            {
+                "localizedValue": "Platinum"
+            },
+            {
+                "localizedValue": "Polo Ralph Lauren"
+            },
+            {
+                "localizedValue": "Ports 1961"
+            },
+            {
+                "localizedValue": "PRADA"
+            },
+            {
+                "localizedValue": "Prestige"
+            },
+            {
+                "localizedValue": "Prince"
+            },
+            {
+                "localizedValue": "Principe"
+            },
+            {
+                "localizedValue": "Pringle"
+            },
+            {
+                "localizedValue": "Pronti"
+            },
+            {
+                "localizedValue": "Pronto Uomo"
+            },
+            {
+                "localizedValue": "Prps"
+            },
+            {
+                "localizedValue": "Punk Rave"
+            },
+            {
+                "localizedValue": "Pure"
+            },
+            {
+                "localizedValue": "Racing Green"
+            },
+            {
+                "localizedValue": "Racquet Club"
+            },
+            {
+                "localizedValue": "Raffaele Caruso"
+            },
+            {
+                "localizedValue": "Raffinati"
+            },
+            {
+                "localizedValue": "Rag"
+            },
+            {
+                "localizedValue": "rag & bone"
+            },
+            {
+                "localizedValue": "Ralph Lauren"
+            },
+            {
+                "localizedValue": "Ralph Lauren Black Label"
+            },
+            {
+                "localizedValue": "Ralph Lauren Collection"
+            },
+            {
+                "localizedValue": "Ralph Lauren Purple Label"
+            },
+            {
+                "localizedValue": "Raspinni"
+            },
+            {
+                "localizedValue": "Ravazzolo"
+            },
+            {
+                "localizedValue": "Rebel"
+            },
+            {
+                "localizedValue": "Redbridge"
+            },
+            {
+                "localizedValue": "Red Herring"
+            },
+            {
+                "localizedValue": "Red Jacket"
+            },
+            {
+                "localizedValue": "Regatta"
+            },
+            {
+                "localizedValue": "Regency"
+            },
+            {
+                "localizedValue": "Regent"
+            },
+            {
+                "localizedValue": "Reiss"
+            },
+            {
+                "localizedValue": "REMUS"
+            },
+            {
+                "localizedValue": "Represent Clo"
+            },
+            {
+                "localizedValue": "Republic"
+            },
+            {
+                "localizedValue": "Reunion"
+            },
+            {
+                "localizedValue": "Rex"
+            },
+            {
+                "localizedValue": "Richard James"
+            },
+            {
+                "localizedValue": "Richard Paul"
+            },
+            {
+                "localizedValue": "Rick Owens"
+            },
+            {
+                "localizedValue": "River Island"
+            },
+            {
+                "localizedValue": "Rivers"
+            },
+            {
+                "localizedValue": "Ro's Garden"
+            },
+            {
+                "localizedValue": "Roar"
+            },
+            {
+                "localizedValue": "Robert Graham"
+            },
+            {
+                "localizedValue": "Roberto Cavalli"
+            },
+            {
+                "localizedValue": "Robert Stock"
+            },
+            {
+                "localizedValue": "Robert Talbott"
+            },
+            {
+                "localizedValue": "ROCKY"
+            },
+            {
+                "localizedValue": "Rodd & Gunn"
+            },
+            {
+                "localizedValue": "Rodier"
+            },
+            {
+                "localizedValue": "Rogers"
+            },
+            {
+                "localizedValue": "Roma"
+            },
+            {
+                "localizedValue": "Romeo Gigli"
+            },
+            {
+                "localizedValue": "Roots"
+            },
+            {
+                "localizedValue": "Rossignol"
+            },
+            {
+                "localizedValue": "Rossini"
+            },
+            {
+                "localizedValue": "Roundtree & Yorke"
+            },
+            {
+                "localizedValue": "Royal"
+            },
+            {
+                "localizedValue": "Royal Prestige"
+            },
+            {
+                "localizedValue": "ROY ROBSON"
+            },
+            {
+                "localizedValue": "RRL"
+            },
+            {
+                "localizedValue": "Ryan Seacrest"
+            },
+            {
+                "localizedValue": "s.Oliver"
+            },
+            {
+                "localizedValue": "Saddlebred"
+            },
+            {
+                "localizedValue": "Saint Laurent"
+            },
+            {
+                "localizedValue": "Saks Fifth Avenue"
+            },
+            {
+                "localizedValue": "Salvatore Ferragamo"
+            },
+            {
+                "localizedValue": "Samuelsohn"
+            },
+            {
+                "localizedValue": "Sandro"
+            },
+            {
+                "localizedValue": "San Remo"
+            },
+            {
+                "localizedValue": "SARAR"
+            },
+            {
+                "localizedValue": "Sartoriale"
+            },
+            {
+                "localizedValue": "Sartoria Partenopea"
+            },
+            {
+                "localizedValue": "Sartorio"
+            },
+            {
+                "localizedValue": "Savile Row"
+            },
+            {
+                "localizedValue": "Saville"
+            },
+            {
+                "localizedValue": "Scabal"
+            },
+            {
+                "localizedValue": "Scarlett"
+            },
+            {
+                "localizedValue": "Scotch & Soda"
+            },
+            {
+                "localizedValue": "SCOTT"
+            },
+            {
+                "localizedValue": "Scott & Taylor"
+            },
+            {
+                "localizedValue": "Scully"
+            },
+            {
+                "localizedValue": "Sean John"
+            },
+            {
+                "localizedValue": "Sears"
+            },
+            {
+                "localizedValue": "Selected"
+            },
+            {
+                "localizedValue": "Selected Homme"
+            },
+            {
+                "localizedValue": "Shanghai Tang"
+            },
+            {
+                "localizedValue": "Shipley & Halmos"
+            },
+            {
+                "localizedValue": "SIDI"
+            },
+            {
+                "localizedValue": "Sid Mashburn"
+            },
+            {
+                "localizedValue": "Silver"
+            },
+            {
+                "localizedValue": "Simon"
+            },
+            {
+                "localizedValue": "Simon Carter"
+            },
+            {
+                "localizedValue": "SIMS"
+            },
+            {
+                "localizedValue": "Sisley"
+            },
+            {
+                "localizedValue": "Skopes"
+            },
+            {
+                "localizedValue": "Smith"
+            },
+            {
+                "localizedValue": "Smoking"
+            },
+            {
+                "localizedValue": "SOHO"
+            },
+            {
+                "localizedValue": "Sons of Intrigue"
+            },
+            {
+                "localizedValue": "Southwick"
+            },
+            {
+                "localizedValue": "Sovereign Code"
+            },
+            {
+                "localizedValue": "sp5der"
+            },
+            {
+                "localizedValue": "Spencer"
+            },
+            {
+                "localizedValue": "Spiegel"
+            },
+            {
+                "localizedValue": "Spirit"
+            },
+            {
+                "localizedValue": "Spurr"
+            },
+            {
+                "localizedValue": "St. John's Bay"
+            },
+            {
+                "localizedValue": "Stafford"
+            },
+            {
+                "localizedValue": "Stanley"
+            },
+            {
+                "localizedValue": "Stanley Black & Decker"
+            },
+            {
+                "localizedValue": "Statements"
+            },
+            {
+                "localizedValue": "Steinbock Boss"
+            },
+            {
+                "localizedValue": "Stella McCartney"
+            },
+            {
+                "localizedValue": "Steve Harvey"
+            },
+            {
+                "localizedValue": "Steven Alan"
+            },
+            {
+                "localizedValue": "Steven Land"
+            },
+            {
+                "localizedValue": "Stile Latino"
+            },
+            {
+                "localizedValue": "Stitch Fix"
+            },
+            {
+                "localizedValue": "St Michael"
+            },
+            {
+                "localizedValue": "Strathmore"
+            },
+            {
+                "localizedValue": "Strellson"
+            },
+            {
+                "localizedValue": "Structure"
+            },
+            {
+                "localizedValue": "Stuart Hughes"
+            },
+            {
+                "localizedValue": "Studio"
+            },
+            {
+                "localizedValue": "Studio Coletti"
+            },
+            {
+                "localizedValue": "Studio Milano"
+            },
+            {
+                "localizedValue": "Style"
+            },
+            {
+                "localizedValue": "Suitsupply"
+            },
+            {
+                "localizedValue": "Sulka"
+            },
+            {
+                "localizedValue": "Sullivan"
+            },
+            {
+                "localizedValue": "Surface to Air"
+            },
+            {
+                "localizedValue": "Suslo Couture"
+            },
+            {
+                "localizedValue": "Swell"
+            },
+            {
+                "localizedValue": "T.M.Lewin"
+            },
+            {
+                "localizedValue": "Tail"
+            },
+            {
+                "localizedValue": "Tallia"
+            },
+            {
+                "localizedValue": "Tasso Elba"
+            },
+            {
+                "localizedValue": "Tasso Ella"
+            },
+            {
+                "localizedValue": "Taylor"
+            },
+            {
+                "localizedValue": "Taylor & Wright"
+            },
+            {
+                "localizedValue": "Ted Baker"
+            },
+            {
+                "localizedValue": "TED LAPIDUS"
+            },
+            {
+                "localizedValue": "Territory Ahead"
+            },
+            {
+                "localizedValue": "The Kooples"
+            },
+            {
+                "localizedValue": "Theory"
+            },
+            {
+                "localizedValue": "THML"
+            },
+            {
+                "localizedValue": "Thomas & Thomas"
+            },
+            {
+                "localizedValue": "Thomas Nash"
+            },
+            {
+                "localizedValue": "Thomas Pink"
+            },
+            {
+                "localizedValue": "Thom Browne"
+            },
+            {
+                "localizedValue": "Tiger of Sweden"
+            },
+            {
+                "localizedValue": "TIGLIO"
+            },
+            {
+                "localizedValue": "Timberland"
+            },
+            {
+                "localizedValue": "Tipsy Elves"
+            },
+            {
+                "localizedValue": "Today's Man"
+            },
+            {
+                "localizedValue": "Todd Snyder"
+            },
+            {
+                "localizedValue": "Tombolini"
+            },
+            {
+                "localizedValue": "Tom Ford"
+            },
+            {
+                "localizedValue": "Tom James"
+            },
+            {
+                "localizedValue": "Tommy Bahama"
+            },
+            {
+                "localizedValue": "Tommy Hilfiger"
+            },
+            {
+                "localizedValue": "Tomorrowland"
+            },
+            {
+                "localizedValue": "Tonic"
+            },
+            {
+                "localizedValue": "Topman"
+            },
+            {
+                "localizedValue": "Trapstar London"
+            },
+            {
+                "localizedValue": "TravelSmith"
+            },
+            {
+                "localizedValue": "Trendyol"
+            },
+            {
+                "localizedValue": "Trussardi"
+            },
+            {
+                "localizedValue": "Trussini"
+            },
+            {
+                "localizedValue": "TU"
+            },
+            {
+                "localizedValue": "Tumi"
+            },
+            {
+                "localizedValue": "Tweeds"
+            },
+            {
+                "localizedValue": "TWEEN"
+            },
+            {
+                "localizedValue": "UN"
+            },
+            {
+                "localizedValue": "Ungaro"
+            },
+            {
+                "localizedValue": "Uniqlo"
+            },
+            {
+                "localizedValue": "Unique"
+            },
+            {
+                "localizedValue": "United Arrows"
+            },
+            {
+                "localizedValue": "United Colors of Benetton"
+            },
+            {
+                "localizedValue": "UNTUCKit"
+            },
+            {
+                "localizedValue": "Uomo"
+            },
+            {
+                "localizedValue": "Urban"
+            },
+            {
+                "localizedValue": "Valentino"
+            },
+            {
+                "localizedValue": "Valley"
+            },
+            {
+                "localizedValue": "Van Gils"
+            },
+            {
+                "localizedValue": "Van Heusen"
+            },
+            {
+                "localizedValue": "Van Laack"
+            },
+            {
+                "localizedValue": "Venezia"
+            },
+            {
+                "localizedValue": "Versace"
+            },
+            {
+                "localizedValue": "Versace Collection"
+            },
+            {
+                "localizedValue": "Versace Jeans"
+            },
+            {
+                "localizedValue": "Versace Jeans Couture"
+            },
+            {
+                "localizedValue": "Versini"
+            },
+            {
+                "localizedValue": "Very"
+            },
+            {
+                "localizedValue": "VESTIMENTA"
+            },
+            {
+                "localizedValue": "Victorinox"
+            },
+            {
+                "localizedValue": "vidaXL"
+            },
+            {
+                "localizedValue": "Viktor & Rolf"
+            },
+            {
+                "localizedValue": "Vince"
+            },
+            {
+                "localizedValue": "Vince Camuto"
+            },
+            {
+                "localizedValue": "VINCI"
+            },
+            {
+                "localizedValue": "Vineyard Vines"
+            },
+            {
+                "localizedValue": "VITALI"
+            },
+            {
+                "localizedValue": "Vitarelli"
+            },
+            {
+                "localizedValue": "Vittorio St. Angelo"
+            },
+            {
+                "localizedValue": "Vivienne Westwood"
+            },
+            {
+                "localizedValue": "Viyella"
+            },
+            {
+                "localizedValue": "Voboom"
+            },
+            {
+                "localizedValue": "Wahmaker"
+            },
+            {
+                "localizedValue": "Walbusch"
+            },
+            {
+                "localizedValue": "Wales Bonner"
+            },
+            {
+                "localizedValue": "Walter"
+            },
+            {
+                "localizedValue": "Warren Sewell"
+            },
+            {
+                "localizedValue": "WD.NY"
+            },
+            {
+                "localizedValue": "West End"
+            },
+            {
+                "localizedValue": "Western"
+            },
+            {
+                "localizedValue": "Wilke-Rodriguez"
+            },
+            {
+                "localizedValue": "Wilkes Bashford"
+            },
+            {
+                "localizedValue": "WILLIAM FIORAVANTI"
+            },
+            {
+                "localizedValue": "Willis & Geiger"
+            },
+            {
+                "localizedValue": "Wilson"
+            },
+            {
+                "localizedValue": "WILVORST"
+            },
+            {
+                "localizedValue": "Windsor"
+            },
+            {
+                "localizedValue": "wings+horns"
+            },
+            {
+                "localizedValue": "Winston"
+            },
+            {
+                "localizedValue": "Woolmark"
+            },
+            {
+                "localizedValue": "Woolrich"
+            },
+            {
+                "localizedValue": "Wrangler"
+            },
+            {
+                "localizedValue": "Y"
+            },
+            {
+                "localizedValue": "Yohji Yamamoto"
+            },
+            {
+                "localizedValue": "Yuvita"
+            },
+            {
+                "localizedValue": "Zadig & Voltaire"
+            },
+            {
+                "localizedValue": "Zanella"
+            },
+            {
+                "localizedValue": "Zanetti"
+            },
+            {
+                "localizedValue": "ZILLI"
+            },
+            {
+                "localizedValue": "Z Zegna"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Type",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": true,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Blazer"
+            },
+            {
+                "localizedValue": "Sport Coat"
+            },
+            {
+                "localizedValue": "Suit"
+            },
+            {
+                "localizedValue": "Suit Jacket"
+            },
+            {
+                "localizedValue": "Suit Pants"
+            },
+            {
+                "localizedValue": "Suit Vest"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Size",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": true,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "XS",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "S",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "M",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "L",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "XL",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "2XL",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "3XL",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "4XL",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "5XL",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "6XL",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "30",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "32",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "34",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "36",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "38",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "40",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "41",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "42",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "43",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "44",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "46",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "48",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "50",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Regular",
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "52",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "54",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "56",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "58",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "60",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "62",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "ST"
+            },
+            {
+                "localizedValue": "MT"
+            },
+            {
+                "localizedValue": "LT"
+            },
+            {
+                "localizedValue": "XLT",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "2XLT",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "3XLT",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            },
+            {
+                "localizedValue": "4XLT",
+                "valueConstraints": [
+                    {
+                        "applicableForLocalizedAspectName": "Size Type",
+                        "applicableForLocalizedAspectValues": [
+                            "Big & Tall"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Size Type",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": true,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Regular"
+            },
+            {
+                "localizedValue": "Big & Tall"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Color",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": true,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Beige"
+            },
+            {
+                "localizedValue": "Black"
+            },
+            {
+                "localizedValue": "Blue"
+            },
+            {
+                "localizedValue": "Brown"
+            },
+            {
+                "localizedValue": "Clear"
+            },
+            {
+                "localizedValue": "Gold"
+            },
+            {
+                "localizedValue": "Gray"
+            },
+            {
+                "localizedValue": "Green"
+            },
+            {
+                "localizedValue": "Ivory"
+            },
+            {
+                "localizedValue": "Multicolor"
+            },
+            {
+                "localizedValue": "Orange"
+            },
+            {
+                "localizedValue": "Pink"
+            },
+            {
+                "localizedValue": "Purple"
+            },
+            {
+                "localizedValue": "Red"
+            },
+            {
+                "localizedValue": "Silver"
+            },
+            {
+                "localizedValue": "White"
+            },
+            {
+                "localizedValue": "Yellow"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Department",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": true,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Men"
+            },
+            {
+                "localizedValue": "Teens"
+            },
+            {
+                "localizedValue": "Unisex Adults"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Style",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": true,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "2 Piece"
+            },
+            {
+                "localizedValue": "3 Piece"
+            },
+            {
+                "localizedValue": "Tuxedo"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Chest Size",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "32"
+            },
+            {
+                "localizedValue": "34"
+            },
+            {
+                "localizedValue": "36"
+            },
+            {
+                "localizedValue": "38"
+            },
+            {
+                "localizedValue": "40"
+            },
+            {
+                "localizedValue": "42"
+            },
+            {
+                "localizedValue": "44"
+            },
+            {
+                "localizedValue": "46"
+            },
+            {
+                "localizedValue": "48"
+            },
+            {
+                "localizedValue": "50"
+            },
+            {
+                "localizedValue": "52"
+            },
+            {
+                "localizedValue": "54"
+            },
+            {
+                "localizedValue": "56"
+            },
+            {
+                "localizedValue": "58"
+            },
+            {
+                "localizedValue": "60"
+            },
+            {
+                "localizedValue": "62"
+            },
+            {
+                "localizedValue": "64"
+            },
+            {
+                "localizedValue": "66"
+            },
+            {
+                "localizedValue": "68"
+            },
+            {
+                "localizedValue": "70"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Jacket/Coat Length",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Cropped"
+            },
+            {
+                "localizedValue": "Short"
+            },
+            {
+                "localizedValue": "Regular"
+            },
+            {
+                "localizedValue": "Mid-Length"
+            },
+            {
+                "localizedValue": "Long"
+            },
+            {
+                "localizedValue": "Extra Long"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Material",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "MULTI",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Acetate"
+            },
+            {
+                "localizedValue": "Acrylic"
+            },
+            {
+                "localizedValue": "Alfa"
+            },
+            {
+                "localizedValue": "Alpaca"
+            },
+            {
+                "localizedValue": "Angora"
+            },
+            {
+                "localizedValue": "Animal Hair"
+            },
+            {
+                "localizedValue": "Bamboo"
+            },
+            {
+                "localizedValue": "Camel"
+            },
+            {
+                "localizedValue": "Cashgora"
+            },
+            {
+                "localizedValue": "Cashmere"
+            },
+            {
+                "localizedValue": "Chlorofiber"
+            },
+            {
+                "localizedValue": "Cotton"
+            },
+            {
+                "localizedValue": "Cotton Blend"
+            },
+            {
+                "localizedValue": "Cupro"
+            },
+            {
+                "localizedValue": "Elastodiene"
+            },
+            {
+                "localizedValue": "Elastolefin"
+            },
+            {
+                "localizedValue": "Elastomultiester"
+            },
+            {
+                "localizedValue": "Faux Fur"
+            },
+            {
+                "localizedValue": "Faux Leather"
+            },
+            {
+                "localizedValue": "Flax"
+            },
+            {
+                "localizedValue": "Fluorofiber"
+            },
+            {
+                "localizedValue": "Fur"
+            },
+            {
+                "localizedValue": "Guanaco"
+            },
+            {
+                "localizedValue": "Hemp"
+            },
+            {
+                "localizedValue": "Henequen"
+            },
+            {
+                "localizedValue": "Kapok"
+            },
+            {
+                "localizedValue": "Leather"
+            },
+            {
+                "localizedValue": "Linen"
+            },
+            {
+                "localizedValue": "Llama"
+            },
+            {
+                "localizedValue": "Lyocell"
+            },
+            {
+                "localizedValue": "Maguey"
+            },
+            {
+                "localizedValue": "Manila Hemp"
+            },
+            {
+                "localizedValue": "Modacrylic"
+            },
+            {
+                "localizedValue": "Modal"
+            },
+            {
+                "localizedValue": "Mohair"
+            },
+            {
+                "localizedValue": "Nylon"
+            },
+            {
+                "localizedValue": "Patent Leather"
+            },
+            {
+                "localizedValue": "Polyamide"
+            },
+            {
+                "localizedValue": "Polyester"
+            },
+            {
+                "localizedValue": "Polypropylene"
+            },
+            {
+                "localizedValue": "Polyurethane"
+            },
+            {
+                "localizedValue": "Ramie"
+            },
+            {
+                "localizedValue": "Silk"
+            },
+            {
+                "localizedValue": "Spandex"
+            },
+            {
+                "localizedValue": "Suede"
+            },
+            {
+                "localizedValue": "Sunn"
+            },
+            {
+                "localizedValue": "Vicuna"
+            },
+            {
+                "localizedValue": "Viscose"
+            },
+            {
+                "localizedValue": "Wool"
+            },
+            {
+                "localizedValue": "Yak"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Fit",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Athletic"
+            },
+            {
+                "localizedValue": "Classic"
+            },
+            {
+                "localizedValue": "Extra-Slim"
+            },
+            {
+                "localizedValue": "Regular"
+            },
+            {
+                "localizedValue": "Relaxed"
+            },
+            {
+                "localizedValue": "Slim"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Pattern",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Animal Print"
+            },
+            {
+                "localizedValue": "Argyle/Diamond"
+            },
+            {
+                "localizedValue": "Camouflage"
+            },
+            {
+                "localizedValue": "Check"
+            },
+            {
+                "localizedValue": "Fair Isle"
+            },
+            {
+                "localizedValue": "Floral"
+            },
+            {
+                "localizedValue": "Geometric"
+            },
+            {
+                "localizedValue": "Herringbone"
+            },
+            {
+                "localizedValue": "Paisley"
+            },
+            {
+                "localizedValue": "Plaid"
+            },
+            {
+                "localizedValue": "Polka Dot"
+            },
+            {
+                "localizedValue": "Solid"
+            },
+            {
+                "localizedValue": "Striped"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Theme",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "MULTI",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "80s"
+            },
+            {
+                "localizedValue": "90s"
+            },
+            {
+                "localizedValue": "Animals"
+            },
+            {
+                "localizedValue": "Anime"
+            },
+            {
+                "localizedValue": "Army"
+            },
+            {
+                "localizedValue": "Art"
+            },
+            {
+                "localizedValue": "Aztec"
+            },
+            {
+                "localizedValue": "Beach"
+            },
+            {
+                "localizedValue": "Beer"
+            },
+            {
+                "localizedValue": "Biker"
+            },
+            {
+                "localizedValue": "Bird"
+            },
+            {
+                "localizedValue": "Bohemian"
+            },
+            {
+                "localizedValue": "Butterfly"
+            },
+            {
+                "localizedValue": "Cars"
+            },
+            {
+                "localizedValue": "Cartoon"
+            },
+            {
+                "localizedValue": "Cat"
+            },
+            {
+                "localizedValue": "Christmas"
+            },
+            {
+                "localizedValue": "City"
+            },
+            {
+                "localizedValue": "Classic"
+            },
+            {
+                "localizedValue": "Coins"
+            },
+            {
+                "localizedValue": "College"
+            },
+            {
+                "localizedValue": "Colorful"
+            },
+            {
+                "localizedValue": "Comics"
+            },
+            {
+                "localizedValue": "Countries"
+            },
+            {
+                "localizedValue": "Cowboy"
+            },
+            {
+                "localizedValue": "Dad"
+            },
+            {
+                "localizedValue": "Designer"
+            },
+            {
+                "localizedValue": "Dog"
+            },
+            {
+                "localizedValue": "Fish"
+            },
+            {
+                "localizedValue": "Flag"
+            },
+            {
+                "localizedValue": "Flower"
+            },
+            {
+                "localizedValue": "Funny"
+            },
+            {
+                "localizedValue": "Geek"
+            },
+            {
+                "localizedValue": "Gothic"
+            },
+            {
+                "localizedValue": "Grunge"
+            },
+            {
+                "localizedValue": "Halloween"
+            },
+            {
+                "localizedValue": "Hawaiian"
+            },
+            {
+                "localizedValue": "Heart"
+            },
+            {
+                "localizedValue": "Hip Hop"
+            },
+            {
+                "localizedValue": "Hippie"
+            },
+            {
+                "localizedValue": "Hipster"
+            },
+            {
+                "localizedValue": "Holiday"
+            },
+            {
+                "localizedValue": "Horror"
+            },
+            {
+                "localizedValue": "Horse"
+            },
+            {
+                "localizedValue": "Indian"
+            },
+            {
+                "localizedValue": "Italian"
+            },
+            {
+                "localizedValue": "Korean"
+            },
+            {
+                "localizedValue": "Leopard"
+            },
+            {
+                "localizedValue": "London"
+            },
+            {
+                "localizedValue": "Love"
+            },
+            {
+                "localizedValue": "Marine"
+            },
+            {
+                "localizedValue": "Metal"
+            },
+            {
+                "localizedValue": "Money"
+            },
+            {
+                "localizedValue": "Moon"
+            },
+            {
+                "localizedValue": "Motorcycle"
+            },
+            {
+                "localizedValue": "Movie"
+            },
+            {
+                "localizedValue": "Music"
+            },
+            {
+                "localizedValue": "Nature"
+            },
+            {
+                "localizedValue": "Nautical"
+            },
+            {
+                "localizedValue": "Nerd"
+            },
+            {
+                "localizedValue": "Outdoor"
+            },
+            {
+                "localizedValue": "Owl"
+            },
+            {
+                "localizedValue": "Paris"
+            },
+            {
+                "localizedValue": "Patriotic"
+            },
+            {
+                "localizedValue": "Peasant"
+            },
+            {
+                "localizedValue": "Preppy"
+            },
+            {
+                "localizedValue": "Princess"
+            },
+            {
+                "localizedValue": "Punk"
+            },
+            {
+                "localizedValue": "Quotes"
+            },
+            {
+                "localizedValue": "Rainbow"
+            },
+            {
+                "localizedValue": "Retro"
+            },
+            {
+                "localizedValue": "Rock"
+            },
+            {
+                "localizedValue": "School"
+            },
+            {
+                "localizedValue": "Shell"
+            },
+            {
+                "localizedValue": "Ski"
+            },
+            {
+                "localizedValue": "Skull"
+            },
+            {
+                "localizedValue": "Snake"
+            },
+            {
+                "localizedValue": "Space"
+            },
+            {
+                "localizedValue": "Sports"
+            },
+            {
+                "localizedValue": "Stars"
+            },
+            {
+                "localizedValue": "Steampunk"
+            },
+            {
+                "localizedValue": "Tattoo"
+            },
+            {
+                "localizedValue": "Teacher"
+            },
+            {
+                "localizedValue": "Tortoise"
+            },
+            {
+                "localizedValue": "Transportation"
+            },
+            {
+                "localizedValue": "Tribal"
+            },
+            {
+                "localizedValue": "Tropical"
+            },
+            {
+                "localizedValue": "Unicorn"
+            },
+            {
+                "localizedValue": "University"
+            },
+            {
+                "localizedValue": "USA"
+            },
+            {
+                "localizedValue": "Wedding"
+            },
+            {
+                "localizedValue": "Western"
+            },
+            {
+                "localizedValue": "Zebra"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Lining Material",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Acetate"
+            },
+            {
+                "localizedValue": "Cotton"
+            },
+            {
+                "localizedValue": "Cupro"
+            },
+            {
+                "localizedValue": "Polyester"
+            },
+            {
+                "localizedValue": "Silk"
+            },
+            {
+                "localizedValue": "Viscose/Rayon"
+            },
+            {
+                "localizedValue": "Wool"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Fabric Type",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Corduroy"
+            },
+            {
+                "localizedValue": "Denim"
+            },
+            {
+                "localizedValue": "Fleece"
+            },
+            {
+                "localizedValue": "Jersey"
+            },
+            {
+                "localizedValue": "Lace"
+            },
+            {
+                "localizedValue": "Rayon"
+            },
+            {
+                "localizedValue": "Tweed"
+            },
+            {
+                "localizedValue": "Velvet"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Jacket Cut",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Double-Breasted"
+            },
+            {
+                "localizedValue": "Single-Breasted"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Number of Pieces",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "2 Piece"
+            },
+            {
+                "localizedValue": "3 Piece"
+            },
+            {
+                "localizedValue": "4 Piece"
+            },
+            {
+                "localizedValue": "5 Piece"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Jacket Front Button Style",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "No Button"
+            },
+            {
+                "localizedValue": "One-Button"
+            },
+            {
+                "localizedValue": "Two-Button"
+            },
+            {
+                "localizedValue": "Three-Button"
+            },
+            {
+                "localizedValue": "Four-Button"
+            },
+            {
+                "localizedValue": "Five-Button"
+            },
+            {
+                "localizedValue": "Six-Button"
+            },
+            {
+                "localizedValue": "Eight-Button"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Waist Size",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "24 in"
+            },
+            {
+                "localizedValue": "25 in"
+            },
+            {
+                "localizedValue": "26 in"
+            },
+            {
+                "localizedValue": "27 in"
+            },
+            {
+                "localizedValue": "28 in"
+            },
+            {
+                "localizedValue": "29 in"
+            },
+            {
+                "localizedValue": "30 in"
+            },
+            {
+                "localizedValue": "31 in"
+            },
+            {
+                "localizedValue": "32 in"
+            },
+            {
+                "localizedValue": "33 in"
+            },
+            {
+                "localizedValue": "34 in"
+            },
+            {
+                "localizedValue": "35 in"
+            },
+            {
+                "localizedValue": "36 in"
+            },
+            {
+                "localizedValue": "37 in"
+            },
+            {
+                "localizedValue": "38 in"
+            },
+            {
+                "localizedValue": "39 in"
+            },
+            {
+                "localizedValue": "40 in"
+            },
+            {
+                "localizedValue": "41 in"
+            },
+            {
+                "localizedValue": "42 in"
+            },
+            {
+                "localizedValue": "43 in"
+            },
+            {
+                "localizedValue": "44 in"
+            },
+            {
+                "localizedValue": "45 in"
+            },
+            {
+                "localizedValue": "46 in"
+            },
+            {
+                "localizedValue": "47 in"
+            },
+            {
+                "localizedValue": "48 in"
+            },
+            {
+                "localizedValue": "49 in"
+            },
+            {
+                "localizedValue": "50 in"
+            },
+            {
+                "localizedValue": "51 in"
+            },
+            {
+                "localizedValue": "52 in"
+            },
+            {
+                "localizedValue": "53 in"
+            },
+            {
+                "localizedValue": "54 in"
+            },
+            {
+                "localizedValue": "55 in"
+            },
+            {
+                "localizedValue": "56 in"
+            },
+            {
+                "localizedValue": "57 in"
+            },
+            {
+                "localizedValue": "58 in"
+            },
+            {
+                "localizedValue": "59 in"
+            },
+            {
+                "localizedValue": "60 in"
+            },
+            {
+                "localizedValue": "61 in"
+            },
+            {
+                "localizedValue": "62 in"
+            },
+            {
+                "localizedValue": "63 in"
+            },
+            {
+                "localizedValue": "64 in"
+            },
+            {
+                "localizedValue": "65 in"
+            },
+            {
+                "localizedValue": "66 in"
+            },
+            {
+                "localizedValue": "67 in"
+            },
+            {
+                "localizedValue": "68 in"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Occasion",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "MULTI",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Business"
+            },
+            {
+                "localizedValue": "Casual"
+            },
+            {
+                "localizedValue": "Formal"
+            },
+            {
+                "localizedValue": "Party/Cocktail"
+            },
+            {
+                "localizedValue": "Travel"
+            },
+            {
+                "localizedValue": "Wedding"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Jacket Lapel Style",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Notch"
+            },
+            {
+                "localizedValue": "Peak"
+            },
+            {
+                "localizedValue": "Shawl"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Vintage",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "RECOMMENDED",
+            "aspectEnabledForVariations": false,
+            "aspectApplicableTo": [
+                "ITEM"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Yes"
+            },
+            {
+                "localizedValue": "No"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Country/Region of Manufacture",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Afghanistan"
+            },
+            {
+                "localizedValue": "Albania"
+            },
+            {
+                "localizedValue": "Algeria"
+            },
+            {
+                "localizedValue": "Andorra"
+            },
+            {
+                "localizedValue": "Angola"
+            },
+            {
+                "localizedValue": "Anguilla"
+            },
+            {
+                "localizedValue": "Antigua and Barbuda"
+            },
+            {
+                "localizedValue": "Argentina"
+            },
+            {
+                "localizedValue": "Armenia"
+            },
+            {
+                "localizedValue": "Aruba"
+            },
+            {
+                "localizedValue": "Australia"
+            },
+            {
+                "localizedValue": "Austria"
+            },
+            {
+                "localizedValue": "Azerbaijan"
+            },
+            {
+                "localizedValue": "Bahamas"
+            },
+            {
+                "localizedValue": "Bahrain"
+            },
+            {
+                "localizedValue": "Bangladesh"
+            },
+            {
+                "localizedValue": "Barbados"
+            },
+            {
+                "localizedValue": "Belarus"
+            },
+            {
+                "localizedValue": "Belgium"
+            },
+            {
+                "localizedValue": "Belize"
+            },
+            {
+                "localizedValue": "Benin"
+            },
+            {
+                "localizedValue": "Bermuda"
+            },
+            {
+                "localizedValue": "Bhutan"
+            },
+            {
+                "localizedValue": "Bolivia"
+            },
+            {
+                "localizedValue": "Bosnia and Herzegovina"
+            },
+            {
+                "localizedValue": "Botswana"
+            },
+            {
+                "localizedValue": "Brazil"
+            },
+            {
+                "localizedValue": "British Indian Ocean Territory"
+            },
+            {
+                "localizedValue": "British Virgin Islands"
+            },
+            {
+                "localizedValue": "Brunei Darussalam"
+            },
+            {
+                "localizedValue": "Bulgaria"
+            },
+            {
+                "localizedValue": "Burkina Faso"
+            },
+            {
+                "localizedValue": "Burundi"
+            },
+            {
+                "localizedValue": "Cambodia"
+            },
+            {
+                "localizedValue": "Cameroon"
+            },
+            {
+                "localizedValue": "Canada"
+            },
+            {
+                "localizedValue": "Canary Islands"
+            },
+            {
+                "localizedValue": "Cape Verde"
+            },
+            {
+                "localizedValue": "Cayman Islands"
+            },
+            {
+                "localizedValue": "Central African Republic"
+            },
+            {
+                "localizedValue": "Chad"
+            },
+            {
+                "localizedValue": "Chile"
+            },
+            {
+                "localizedValue": "China"
+            },
+            {
+                "localizedValue": "Christmas Islands"
+            },
+            {
+                "localizedValue": "Cocos (Keeling) Islands"
+            },
+            {
+                "localizedValue": "Colombia"
+            },
+            {
+                "localizedValue": "Comoros"
+            },
+            {
+                "localizedValue": "Congo, Republic of the"
+            },
+            {
+                "localizedValue": "Congo, The Democratic Republic of the"
+            },
+            {
+                "localizedValue": "Cook Islands"
+            },
+            {
+                "localizedValue": "Costa Rica"
+            },
+            {
+                "localizedValue": "Croatia"
+            },
+            {
+                "localizedValue": "Cuba"
+            },
+            {
+                "localizedValue": "Curacao"
+            },
+            {
+                "localizedValue": "Cyprus"
+            },
+            {
+                "localizedValue": "Czech Republic"
+            },
+            {
+                "localizedValue": "Denmark"
+            },
+            {
+                "localizedValue": "Djibouti"
+            },
+            {
+                "localizedValue": "Dominica"
+            },
+            {
+                "localizedValue": "Dominican Republic"
+            },
+            {
+                "localizedValue": "Ecuador"
+            },
+            {
+                "localizedValue": "Egypt"
+            },
+            {
+                "localizedValue": "El Salvador"
+            },
+            {
+                "localizedValue": "Equatorial Guinea"
+            },
+            {
+                "localizedValue": "Eritrea"
+            },
+            {
+                "localizedValue": "Estonia"
+            },
+            {
+                "localizedValue": "Eswatini"
+            },
+            {
+                "localizedValue": "Ethiopia"
+            },
+            {
+                "localizedValue": "Falkland Islands"
+            },
+            {
+                "localizedValue": "Faroe Islands"
+            },
+            {
+                "localizedValue": "Fiji"
+            },
+            {
+                "localizedValue": "Finland"
+            },
+            {
+                "localizedValue": "France"
+            },
+            {
+                "localizedValue": "French Guiana"
+            },
+            {
+                "localizedValue": "French Polynesia Includes Tahiti"
+            },
+            {
+                "localizedValue": "French Southern Territories and Antartic Lands"
+            },
+            {
+                "localizedValue": "Gabon"
+            },
+            {
+                "localizedValue": "Gambia"
+            },
+            {
+                "localizedValue": "Gaza Strip"
+            },
+            {
+                "localizedValue": "Georgia"
+            },
+            {
+                "localizedValue": "Germany"
+            },
+            {
+                "localizedValue": "Ghana"
+            },
+            {
+                "localizedValue": "Gibraltar"
+            },
+            {
+                "localizedValue": "Greece"
+            },
+            {
+                "localizedValue": "Greenland"
+            },
+            {
+                "localizedValue": "Grenada"
+            },
+            {
+                "localizedValue": "Guadeloupe"
+            },
+            {
+                "localizedValue": "Guam"
+            },
+            {
+                "localizedValue": "Guatemala"
+            },
+            {
+                "localizedValue": "Guernsey"
+            },
+            {
+                "localizedValue": "Guinea"
+            },
+            {
+                "localizedValue": "Guinea-Bissau"
+            },
+            {
+                "localizedValue": "Guyana"
+            },
+            {
+                "localizedValue": "Haiti"
+            },
+            {
+                "localizedValue": "Heard Island and Mcdonald Islands"
+            },
+            {
+                "localizedValue": "Honduras"
+            },
+            {
+                "localizedValue": "Hong Kong"
+            },
+            {
+                "localizedValue": "Hungary"
+            },
+            {
+                "localizedValue": "Iceland"
+            },
+            {
+                "localizedValue": "India"
+            },
+            {
+                "localizedValue": "Indonesia"
+            },
+            {
+                "localizedValue": "Iran, Islamic Republic of"
+            },
+            {
+                "localizedValue": "Iraq"
+            },
+            {
+                "localizedValue": "Ireland"
+            },
+            {
+                "localizedValue": "Israel"
+            },
+            {
+                "localizedValue": "Italy"
+            },
+            {
+                "localizedValue": "Ivory Coast"
+            },
+            {
+                "localizedValue": "Jamaica"
+            },
+            {
+                "localizedValue": "Japan"
+            },
+            {
+                "localizedValue": "Jersey"
+            },
+            {
+                "localizedValue": "Jordan"
+            },
+            {
+                "localizedValue": "Kazakhstan"
+            },
+            {
+                "localizedValue": "Kenya"
+            },
+            {
+                "localizedValue": "Kiribati"
+            },
+            {
+                "localizedValue": "Kosovo"
+            },
+            {
+                "localizedValue": "Kuwait"
+            },
+            {
+                "localizedValue": "Kyrgyzstan"
+            },
+            {
+                "localizedValue": "Lao People's Democratic Republic"
+            },
+            {
+                "localizedValue": "Latvia"
+            },
+            {
+                "localizedValue": "Lebanon"
+            },
+            {
+                "localizedValue": "Lesotho"
+            },
+            {
+                "localizedValue": "Liberia"
+            },
+            {
+                "localizedValue": "Libya"
+            },
+            {
+                "localizedValue": "Liechtenstein"
+            },
+            {
+                "localizedValue": "Lithuania"
+            },
+            {
+                "localizedValue": "Luxembourg"
+            },
+            {
+                "localizedValue": "Macau"
+            },
+            {
+                "localizedValue": "Madagascar"
+            },
+            {
+                "localizedValue": "Madeira Island"
+            },
+            {
+                "localizedValue": "Malawi"
+            },
+            {
+                "localizedValue": "Malaysia"
+            },
+            {
+                "localizedValue": "Maldives"
+            },
+            {
+                "localizedValue": "Mali"
+            },
+            {
+                "localizedValue": "Malta"
+            },
+            {
+                "localizedValue": "Marshall Islands"
+            },
+            {
+                "localizedValue": "Martinique"
+            },
+            {
+                "localizedValue": "Mauritania"
+            },
+            {
+                "localizedValue": "Mauritius"
+            },
+            {
+                "localizedValue": "Mayotte"
+            },
+            {
+                "localizedValue": "Mexico"
+            },
+            {
+                "localizedValue": "Micronesia, Federated States of"
+            },
+            {
+                "localizedValue": "Moldova, Republic of"
+            },
+            {
+                "localizedValue": "Monaco"
+            },
+            {
+                "localizedValue": "Mongolia"
+            },
+            {
+                "localizedValue": "Montenegro"
+            },
+            {
+                "localizedValue": "Montserrat"
+            },
+            {
+                "localizedValue": "Morocco"
+            },
+            {
+                "localizedValue": "Mozambique"
+            },
+            {
+                "localizedValue": "Myanmar / Burma"
+            },
+            {
+                "localizedValue": "Namibia"
+            },
+            {
+                "localizedValue": "Nauru"
+            },
+            {
+                "localizedValue": "Nepal"
+            },
+            {
+                "localizedValue": "Netherlands"
+            },
+            {
+                "localizedValue": "New Caledonia"
+            },
+            {
+                "localizedValue": "New Zealand"
+            },
+            {
+                "localizedValue": "Nicaragua"
+            },
+            {
+                "localizedValue": "Niger"
+            },
+            {
+                "localizedValue": "Nigeria"
+            },
+            {
+                "localizedValue": "Niue"
+            },
+            {
+                "localizedValue": "Norfolk Island"
+            },
+            {
+                "localizedValue": "Northern Mariana Islands"
+            },
+            {
+                "localizedValue": "North Korea (Democratic People's Republic of Korea)"
+            },
+            {
+                "localizedValue": "North Macedonia"
+            },
+            {
+                "localizedValue": "Norway"
+            },
+            {
+                "localizedValue": "Oman"
+            },
+            {
+                "localizedValue": "Pakistan"
+            },
+            {
+                "localizedValue": "Palau"
+            },
+            {
+                "localizedValue": "Panama"
+            },
+            {
+                "localizedValue": "Papua New Guinea"
+            },
+            {
+                "localizedValue": "Paraguay"
+            },
+            {
+                "localizedValue": "Peru"
+            },
+            {
+                "localizedValue": "Philippines"
+            },
+            {
+                "localizedValue": "Poland"
+            },
+            {
+                "localizedValue": "Portugal"
+            },
+            {
+                "localizedValue": "Puerto Rico"
+            },
+            {
+                "localizedValue": "Qatar"
+            },
+            {
+                "localizedValue": "Reunion"
+            },
+            {
+                "localizedValue": "Romania"
+            },
+            {
+                "localizedValue": "Russian Federation"
+            },
+            {
+                "localizedValue": "Rwanda"
+            },
+            {
+                "localizedValue": "Saint Barth\u00e9lemy"
+            },
+            {
+                "localizedValue": "Saint Helena"
+            },
+            {
+                "localizedValue": "Saint Kitts and Nevis"
+            },
+            {
+                "localizedValue": "Saint Lucia"
+            },
+            {
+                "localizedValue": "Saint-Martin"
+            },
+            {
+                "localizedValue": "Saint Pierre and Miquelon"
+            },
+            {
+                "localizedValue": "Saint Vincent and the Grenadines"
+            },
+            {
+                "localizedValue": "Samoa"
+            },
+            {
+                "localizedValue": "San Marino"
+            },
+            {
+                "localizedValue": "Sao Tome and Principe"
+            },
+            {
+                "localizedValue": "Saudi Arabia"
+            },
+            {
+                "localizedValue": "Senegal"
+            },
+            {
+                "localizedValue": "Serbia"
+            },
+            {
+                "localizedValue": "Seychelles"
+            },
+            {
+                "localizedValue": "Sierra Leone"
+            },
+            {
+                "localizedValue": "Singapore"
+            },
+            {
+                "localizedValue": "Sint Eustatius"
+            },
+            {
+                "localizedValue": "Sint Maarten"
+            },
+            {
+                "localizedValue": "Slovakia"
+            },
+            {
+                "localizedValue": "Slovenia"
+            },
+            {
+                "localizedValue": "Solomon Islands"
+            },
+            {
+                "localizedValue": "Somalia"
+            },
+            {
+                "localizedValue": "South Africa"
+            },
+            {
+                "localizedValue": "South Georgia and the South Sandwich Islands"
+            },
+            {
+                "localizedValue": "South Korea (Republic of Korea)"
+            },
+            {
+                "localizedValue": "Spain"
+            },
+            {
+                "localizedValue": "Sri Lanka"
+            },
+            {
+                "localizedValue": "Sudan"
+            },
+            {
+                "localizedValue": "Suriname"
+            },
+            {
+                "localizedValue": "Svalbard and Jan Mayen"
+            },
+            {
+                "localizedValue": "Sweden"
+            },
+            {
+                "localizedValue": "Switzerland"
+            },
+            {
+                "localizedValue": "Syria"
+            },
+            {
+                "localizedValue": "Taiwan"
+            },
+            {
+                "localizedValue": "Tajikistan"
+            },
+            {
+                "localizedValue": "Tanzania, United Republic of"
+            },
+            {
+                "localizedValue": "Thailand"
+            },
+            {
+                "localizedValue": "Togo"
+            },
+            {
+                "localizedValue": "Tokelau"
+            },
+            {
+                "localizedValue": "Tonga"
+            },
+            {
+                "localizedValue": "Trinidad and Tobago"
+            },
+            {
+                "localizedValue": "Tristan da Cunha"
+            },
+            {
+                "localizedValue": "Tunisia"
+            },
+            {
+                "localizedValue": "Turkey"
+            },
+            {
+                "localizedValue": "Turkmenistan"
+            },
+            {
+                "localizedValue": "Turks and Caicos Islands"
+            },
+            {
+                "localizedValue": "Tuvalu"
+            },
+            {
+                "localizedValue": "Uganda"
+            },
+            {
+                "localizedValue": "Ukraine"
+            },
+            {
+                "localizedValue": "United Arab Emirates"
+            },
+            {
+                "localizedValue": "United Kingdom"
+            },
+            {
+                "localizedValue": "United States"
+            },
+            {
+                "localizedValue": "Uruguay"
+            },
+            {
+                "localizedValue": "Uzbekistan"
+            },
+            {
+                "localizedValue": "Vanuatu"
+            },
+            {
+                "localizedValue": "Vatican City"
+            },
+            {
+                "localizedValue": "Venezuela"
+            },
+            {
+                "localizedValue": "Vietnam"
+            },
+            {
+                "localizedValue": "Virgin Islands"
+            },
+            {
+                "localizedValue": "Wallis and Futuna"
+            },
+            {
+                "localizedValue": "West Bank"
+            },
+            {
+                "localizedValue": "Yemen"
+            },
+            {
+                "localizedValue": "Zambia"
+            },
+            {
+                "localizedValue": "Zimbabwe"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Season",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "MULTI",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Fall"
+            },
+            {
+                "localizedValue": "Spring"
+            },
+            {
+                "localizedValue": "Summer"
+            },
+            {
+                "localizedValue": "Winter"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Jacket Vent Style",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Double-Vented"
+            },
+            {
+                "localizedValue": "Single-Vented"
+            },
+            {
+                "localizedValue": "Ventless"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Inseam",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "24 in"
+            },
+            {
+                "localizedValue": "25 in"
+            },
+            {
+                "localizedValue": "26 in"
+            },
+            {
+                "localizedValue": "27 in"
+            },
+            {
+                "localizedValue": "28 in"
+            },
+            {
+                "localizedValue": "29 in"
+            },
+            {
+                "localizedValue": "30 in"
+            },
+            {
+                "localizedValue": "31 in"
+            },
+            {
+                "localizedValue": "32 in"
+            },
+            {
+                "localizedValue": "33 in"
+            },
+            {
+                "localizedValue": "34 in"
+            },
+            {
+                "localizedValue": "35 in"
+            },
+            {
+                "localizedValue": "36 in"
+            },
+            {
+                "localizedValue": "37 in"
+            },
+            {
+                "localizedValue": "38 in"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Front Type",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Flat Front"
+            },
+            {
+                "localizedValue": "Pleated"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Features",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "MULTI",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Belted"
+            },
+            {
+                "localizedValue": "Elastic Waist"
+            },
+            {
+                "localizedValue": "Inner Pockets"
+            },
+            {
+                "localizedValue": "Quick Dry"
+            },
+            {
+                "localizedValue": "Stain-Resistant"
+            },
+            {
+                "localizedValue": "Stretch"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Jacket Sleeve Button Style",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "No Button"
+            },
+            {
+                "localizedValue": "One-Button"
+            },
+            {
+                "localizedValue": "Two-Button"
+            },
+            {
+                "localizedValue": "Three-Button"
+            },
+            {
+                "localizedValue": "Four-Button"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Leg Style",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": true
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Bootcut"
+            },
+            {
+                "localizedValue": "Flared"
+            },
+            {
+                "localizedValue": "Skinny"
+            },
+            {
+                "localizedValue": "Straight"
+            },
+            {
+                "localizedValue": "Tapered"
+            },
+            {
+                "localizedValue": "Wide-Leg"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Handmade",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Yes"
+            },
+            {
+                "localizedValue": "No"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Personalize",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false,
+            "aspectApplicableTo": [
+                "ITEM"
+            ]
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Yes"
+            },
+            {
+                "localizedValue": "No"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "Garment Care",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Dry Clean Only"
+            },
+            {
+                "localizedValue": "Hand Wash Only"
+            },
+            {
+                "localizedValue": "Machine Washable"
+            }
+        ]
+    },
+    {
+        "localizedAspectName": "California Prop 65 Warning",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false,
+            "aspectMaxLength": 800
+        }
+    },
+    {
+        "localizedAspectName": "MPN",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "MULTI",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": true,
+            "aspectApplicableTo": [
+                "PRODUCT"
+            ]
+        }
+    },
+    {
+        "localizedAspectName": "Personalization Instructions",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false,
+            "aspectMaxLength": 200,
+            "aspectApplicableTo": [
+                "ITEM"
+            ]
+        }
+    },
+    {
+        "localizedAspectName": "Unit Quantity",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "FREE_TEXT",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false,
+            "aspectApplicableTo": [
+                "ITEM"
+            ]
+        }
+    },
+    {
+        "localizedAspectName": "Unit Type",
+        "aspectConstraint": {
+            "aspectDataType": "STRING",
+            "itemToAspectCardinality": "SINGLE",
+            "aspectMode": "SELECTION_ONLY",
+            "aspectRequired": false,
+            "aspectUsage": "OPTIONAL",
+            "aspectEnabledForVariations": false
+        },
+        "aspectValues": [
+            {
+                "localizedValue": "Unit"
+            },
+            {
+                "localizedValue": "oz"
+            },
+            {
+                "localizedValue": "lb"
+            },
+            {
+                "localizedValue": "fl oz"
+            },
+            {
+                "localizedValue": "gal"
+            },
+            {
+                "localizedValue": "ft"
+            },
+            {
+                "localizedValue": "ft\u00b2"
+            },
+            {
+                "localizedValue": "ft\u00b3"
+            }
+        ]
+    }
+]
