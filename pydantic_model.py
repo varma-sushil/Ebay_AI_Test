@@ -19,7 +19,7 @@ _DATATYPE_MAP: Dict[str, Any] = {
 def create_pydantic_model(
     aspects: List[Dict[str, Any]],
     model_name: str = "ProductAspects",
-    max_aspect_values: int = 50,
+    max_aspect_values: int = 50000,
     example_preview_count: int = 10,
     client_rules:dict | None = None
 ) -> type[BaseModel]:

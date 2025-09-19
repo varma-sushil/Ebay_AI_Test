@@ -3,8 +3,8 @@ from pathlib import Path
 
 
 BASE_DIR = Path(__name__).parent.resolve()
-ASPECTS_JSON = BASE_DIR / "suits_aspects.json"
-OUTPUT_JSON_PATH = BASE_DIR / "extracted_suits_aspects.json"
+ASPECTS_JSON = BASE_DIR / "comic.json"
+OUTPUT_JSON_PATH = BASE_DIR / "extracted_comic.json"
 
 with open(ASPECTS_JSON, "r") as f:
     aspects_data = json.load(f)
@@ -75,8 +75,8 @@ print(prompt_statement)
 
 
 final_data = {
-    "Suits and suits separate": demo
+    "comic": demo
 }
 
-with open("aspects_dict.json", 'w') as f:
+with open("comic_aspect.json", 'w') as f:
     json.dump(final_data, f, indent=4)

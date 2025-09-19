@@ -1,0 +1,1266 @@
+{
+    "properties": {
+        "Series Title": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Aqua Knight",
+                        "Azrael: Death's Dark Knight",
+                        "Bad Moon Rising",
+                        "Batman Curse of the White Knight",
+                        "Batman Dark Knight",
+                        "Batman Last Knight on Earth",
+                        "Batman in Barcelona: Dragon's Knight",
+                        "Batman: Arkham Knight",
+                        "Batman: Arkham Knight Genesis",
+                        "Batman: Beyond the White Knight",
+                        "Batman: Curse of the White Knight",
+                        "Batman: Dark Knight Dynasty",
+                        "Batman: Dark Knight Gallery",
+                        "Batman: Dark Knight of the Round Table",
+                        "Batman: Hollywood Knight",
+                        "Batman: In Darkest Knight",
+                        "Batman: Journey into Knight",
+                        "Batman: Last Knight on Earth",
+                        "Batman: Legends of the Dark Knight",
+                        "Batman: Legends of the Dark Knight Special",
+                        "Batman: One Dark Knight",
+                        "Batman: The Dark Knight",
+                        "Batman: The Dark Knight Returns",
+                        "Batman: White Knight",
+                        "Batman: White Knight Presents Harley Quinn",
+                        "Batman: White Knight Presents: Generation Joker",
+                        "Batman: the Dark Knight Archives",
+                        "Batman: the Dark Knight Returns-Tenth Anniversary Edition",
+                        "Batman: the Dark Knight Strikes Again",
+                        "Batman: the Knight",
+                        "Black Knight",
+                        "Black Moon Chronicles",
+                        "Blue Moon",
+                        "Broken Moon",
+                        "Butcher Knight",
+                        "Cursed Moon",
+                        "Dark Knight III: The Master Race",
+                        "Dark Knight Returns The Last Crusade",
+                        "Dark Knight Returns: the Golden Child",
+                        "Dog Moon",
+                        "Dollman Kills the Full Moon Universe",
+                        "Dragons in the Moon",
+                        "Eve: Children of the Moon",
+                        "Flashpoint: Batman Knight of Vengeance",
+                        "John Stewart: the Emerald Knight",
+                        "Kaos Moon",
+                        "King in Black: Black Knight",
+                        "Knight Janek",
+                        "Knight Terrors",
+                        "Knight Terrors: Action Comics",
+                        "Knight Terrors: Angel Breaker",
+                        "Knight Terrors: Batman",
+                        "Knight Terrors: Catwoman",
+                        "Knight Terrors: Detective Comics",
+                        "Knight Terrors: First Blood",
+                        "Knight Terrors: Green Lantern",
+                        "Knight Terrors: Harley Quinn",
+                        "Knight Terrors: Nightwing",
+                        "Knight Terrors: Poison Ivy",
+                        "Knight Terrors: Punchline",
+                        "Knight Terrors: Ravager",
+                        "Knight Terrors: Robin",
+                        "Knight Terrors: Superman",
+                        "Knight Terrors: Titans",
+                        "Knight Terrors: Wonder Woman",
+                        "Knight Terrors: Zatanna",
+                        "Knight Terrors: the Joker",
+                        "Knight and Squire",
+                        "Legends of the Dark Knight",
+                        "Legends of the Dark Knight 100-Page Super Spectacular",
+                        "Marc Spector: Moon Knight",
+                        "Miles Morales & Moon Girl",
+                        "Moon Girl",
+                        "Moon Girl and Devil Dinosaur",
+                        "Moon Knight",
+                        "Moon Knight Annual",
+                        "Moon Knight Black, White & Blood",
+                        "Moon Knight Epic Collection",
+                        "Moon Knight Saga",
+                        "Moon Knight Special Edition",
+                        "Moon Knight: Black, White & Blood",
+                        "Moon Knight: City of the Dead",
+                        "Moon Knight: Fist of Khonshu",
+                        "Moon Lake",
+                        "Moon Mullins",
+                        "Ms. Marvel & Moon Knight",
+                        "Phases of the Moon Knight",
+                        "Pretty Guardian Sailor Moon",
+                        "Seven Soldiers: Shining Knight",
+                        "Shadowland: Moon Knight",
+                        "Star Wars: Knight Errant",
+                        "The Batman Who Laughs: the Grim Knight",
+                        "The Black Knight",
+                        "The Dark Knight III: The Master Race",
+                        "The Dark Knight Strikes Again",
+                        "The Hedge Knight",
+                        "Vengeance of the Moon Knight",
+                        "Venom: Space Knight",
+                        "Wolf Moon"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Series Title (type: STRING, constraint: SINGLE) | Examples: 21, 24, 52, 68, 76, 300, 421, 1984, \u00a1Mucha Lucha!, \u00a1Universo!, ... etc.",
+            "title": "Series Title"
+        },
+        "Character": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "Albert Moon Jr.",
+                            "Arabian Knight",
+                            "Arkham Knight",
+                            "Atomic Knight",
+                            "Bayou Billy",
+                            "Bei the Blood Moon",
+                            "Bertrand Crawley",
+                            "Billy",
+                            "Billy (Donna & Allen's Child)",
+                            "Billy Batson",
+                            "Billy Butcher",
+                            "Billy Connors",
+                            "Billy Cranston",
+                            "Billy Dogma",
+                            "Billy Greene",
+                            "Billy Kincaid",
+                            "Billy Numerous",
+                            "Billy the Kid",
+                            "Black Knight",
+                            "Black Knight (Dane Whitman)",
+                            "Black Knight (Nathan Garrett)",
+                            "Black Knight (Sir Percy of Scandia)",
+                            "Bobby",
+                            "Bobby Benson",
+                            "Bobby Berman",
+                            "Bobby Drake",
+                            "Bobby Sherman",
+                            "Cindy Moon",
+                            "Crawley",
+                            "Dark Knight",
+                            "Doctor Moon",
+                            "Gena Landers",
+                            "Grim Knight",
+                            "Hunter's Moon",
+                            "Jack Knight",
+                            "Khonshu",
+                            "Marlene",
+                            "Marlene Alraune",
+                            "Misty Knight",
+                            "Moon Boy",
+                            "Moon Girl",
+                            "Moon Girl (Lunella Lafayette)",
+                            "Moon Knight",
+                            "Moon Knight (Marc Spector)",
+                            "Moon Man",
+                            "Moon Mullins",
+                            "Moon Shade",
+                            "Mr. Knight",
+                            "Ray Landers",
+                            "Shadow Knight",
+                            "Shining Knight",
+                            "Silent Knight",
+                            "Tana Moon",
+                            "The Black Knight",
+                            "The Knight",
+                            "The Red Knight",
+                            "White Knight"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Character (type: STRING, constraint: MULTI) | Examples: Archie, Catwoman, Deadpool, Dick Tracy, Harley Quinn, Hellboy, Peacekeeper, 'Mazing Man, 0-0-0, 10th Muse, ... etc.",
+            "title": "Character"
+        },
+        "Genre": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "Action",
+                            "Adventure",
+                            "Air Force",
+                            "Allegory",
+                            "Animal",
+                            "Army",
+                            "Aviation",
+                            "Bad Girl",
+                            "Biography",
+                            "Car",
+                            "Cartoon",
+                            "Celebrity",
+                            "Classics",
+                            "Comedy",
+                            "Comics",
+                            "Cosmic",
+                            "Crime & Thriller",
+                            "Cyberpunk",
+                            "Drama",
+                            "Dream",
+                            "Drugs",
+                            "Espionage",
+                            "Family",
+                            "Fantasy",
+                            "Fashion",
+                            "Fiction",
+                            "Films",
+                            "Folklore",
+                            "Funny Animal",
+                            "Games",
+                            "Good Girl",
+                            "Gothic",
+                            "Historical",
+                            "Historical & Mythological",
+                            "Hobby",
+                            "Holiday",
+                            "Horror & Sci-Fi",
+                            "Horror & Sci-Fi or Suspense",
+                            "Humor/Satire",
+                            "Humor/Satire/Satire|Humour",
+                            "Illustration",
+                            "Josei",
+                            "Jungle",
+                            "Kodomomuke",
+                            "LGBTQA",
+                            "Literary",
+                            "Marines",
+                            "Martial Arts",
+                            "Mecha",
+                            "Medical",
+                            "Military",
+                            "Monster",
+                            "Movie & TV",
+                            "Movie Adaptation",
+                            "Movie,TV & Music",
+                            "Music",
+                            "Mystery",
+                            "Nature",
+                            "Navy",
+                            "Noir",
+                            "Non-Fiction",
+                            "Occult",
+                            "Patriotic",
+                            "Philosophy",
+                            "Pin-Up",
+                            "Pirate",
+                            "Poetry",
+                            "Political",
+                            "Post Apocalypse",
+                            "Prehistoric",
+                            "Propaganda",
+                            "Psychodrama",
+                            "Psychology",
+                            "Pulp",
+                            "Puzzle",
+                            "Queer",
+                            "Reality",
+                            "Religious",
+                            "Romance",
+                            "School Life",
+                            "Science",
+                            "Science Fiction",
+                            "Seijin",
+                            "Seinen",
+                            "Shonen",
+                            "Sh\u00f4jo",
+                            "Soap",
+                            "Sports",
+                            "Superheroes",
+                            "Supernatural",
+                            "Suspense",
+                            "TV-Comic",
+                            "Teen",
+                            "Television Based",
+                            "Tragedy",
+                            "True Story",
+                            "Underground",
+                            "Vampire",
+                            "Virus",
+                            "War",
+                            "Weird",
+                            "Western"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Genre (type: STRING, constraint: MULTI) | Examples: Action, Adventure, Air Force, Allegory, Animal, Army, Aviation, Bad Girl, Biography, Car, ... etc.",
+            "title": "Genre"
+        },
+        "Artist/Writer": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "Jeff Albrecht",
+                            "Jeff Amano",
+                            "Jeff Anderson",
+                            "Jeff Bailey",
+                            "Jeff Balke",
+                            "Jeff Bonivert",
+                            "Jeff Butler",
+                            "Jeff Christiansen",
+                            "Jeff De Los Santos",
+                            "Jeff Dee",
+                            "Jeff Dekal",
+                            "Jeff Edwards",
+                            "Jeff Gomez",
+                            "Jeff Grubb",
+                            "Jeff Henderson",
+                            "Jeff Huet",
+                            "Jeff Jensen",
+                            "Jeff Johnson",
+                            "Jeff Jones",
+                            "Jeff Katz",
+                            "Jeff King",
+                            "Jeff Lafferty",
+                            "Jeff Lemire",
+                            "Jeff Limke",
+                            "Jeff Lindsay",
+                            "Jeff Loveness",
+                            "Jeff Mariotte",
+                            "Jeff Massey",
+                            "Jeff Matsuda",
+                            "Jeff Mcclelland",
+                            "Jeff Mccomsey",
+                            "Jeff Moore",
+                            "Jeff Moy",
+                            "Jeff Nicholson",
+                            "Jeff Parker",
+                            "Jeff Purves",
+                            "Jeff Rebner",
+                            "Jeff Rosenthal",
+                            "Jeff Rovin",
+                            "Jeff Schultz",
+                            "Jeff Shultz",
+                            "Jeff Smith",
+                            "Jeff Stokely",
+                            "Jeff Whiting",
+                            "Jeff Zapata",
+                            "Jeff Zornow"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Artist/Writer (type: STRING, constraint: MULTI) | Examples: Alan Moore, Brian K. Vaughan, Brian Michael Bendis, Chris Bachalo, Chris Claremont, Fiona Staples, Frank Miller, Gail Simone, Grant Morrison, Jack Kirby, ... etc.",
+            "title": "Artist/Writer"
+        },
+        "Superhero Team": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "A- Force",
+                            "Alpha Flight",
+                            "Avengers",
+                            "Brotherhood of Evil",
+                            "Brotherhood of Mutants",
+                            "Challengers of the Unknown",
+                            "Dark Avengers",
+                            "Defenders",
+                            "Doom Patrol",
+                            "Fantastic Four",
+                            "Green Lantern Corps",
+                            "Guardians of the Galaxy",
+                            "Hawk and Dove",
+                            "Inhumans",
+                            "Justice League International",
+                            "Justice League Task Force",
+                            "Justice League of America",
+                            "Justice Society of America",
+                            "Legion of Superheroes",
+                            "Metal Men",
+                            "New Guardians",
+                            "New Mutants",
+                            "Nextwave",
+                            "Runaways",
+                            "S.W.O.R.D.",
+                            "Sea Devils",
+                            "Sinister Six",
+                            "Suicide Squad",
+                            "Teen Titans",
+                            "The Authority",
+                            "The Boys",
+                            "The Conglomerate",
+                            "The Eternals",
+                            "The Guardians of the Universe",
+                            "The Umbrella Academy",
+                            "Thunderbolts",
+                            "Titans",
+                            "Ultimates",
+                            "Watchmen",
+                            "World's Finest",
+                            "X-Factor",
+                            "X-Force",
+                            "X-Men",
+                            "Young Avengers"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Superhero Team (type: STRING, constraint: MULTI) | Examples: A- Force, Alpha Flight, Avengers, Brotherhood of Evil, Brotherhood of Mutants, Challengers of the Unknown, Dark Avengers, Defenders, Doom Patrol, Fantastic Four, ... etc.",
+            "title": "Superhero Team"
+        },
+        "Publisher": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "ARCHIE COMICS Publications, Inc.",
+                        "Apex Novelties, Inc.",
+                        "Digital Manga, Inc.",
+                        "Marvel Comics",
+                        "Marvel UK",
+                        "Sterling Publishing Co., Inc."
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Publisher (type: STRING, constraint: SINGLE) | Examples: 10 Ton Press, 12 bis, 12 Gauge Comics, 1First Comics, 215 Ink, 3D ZONE, 3 Finger Prints, 451 Media Group, 5-D Comics, 78squid, ... etc.",
+            "title": "Publisher"
+        },
+        "Publication Year": {
+            "anyOf": [
+                {
+                    "const": "2016",
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Publication Year (type: STRING, constraint: SINGLE) | Examples: 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, ... etc.",
+            "title": "Publication Year"
+        },
+        "Format": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Album",
+                        "Annual",
+                        "Chapbook/Pamphlet",
+                        "Clipped Strips",
+                        "DVD",
+                        "Digest",
+                        "Hardcover",
+                        "Leather Cover",
+                        "Mixed Lot",
+                        "Omnibus",
+                        "Single Issue",
+                        "Softcover",
+                        "Trade Paperback"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Format (type: STRING, constraint: SINGLE) | Examples: Album, Annual, Chapbook/Pamphlet, Clipped Strips, Digest, DVD, Hardcover, Leather Cover, Mixed Lot, Omnibus, ... etc.",
+            "title": "Format"
+        },
+        "Era": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Bronze Age (1970-83)",
+                        "Copper Age (1984-1991)",
+                        "Golden Age (1938-55)",
+                        "Modern Age (1992-Now)",
+                        "Platinum Age (1897-1937)",
+                        "Silver Age (1956-69)"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Era (type: STRING, constraint: SINGLE) | Examples: Bronze Age (1970-83), Copper Age (1984-1991), Golden Age (1938-55), Modern Age (1992-Now), Platinum Age (1897-1937), Silver Age (1956-69)",
+            "title": "Era"
+        },
+        "Type": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Comic Book",
+                        "Graphic Novel"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Type (type: STRING, constraint: SINGLE) | Examples: Comic Book, Graphic Novel",
+            "title": "Type"
+        },
+        "Grade": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "0.5 Poor",
+                        "1.0 Fair",
+                        "1.5 Fair/Good",
+                        "1.8 Good-",
+                        "10 Gem Mint",
+                        "2.0 Good",
+                        "2.5 Good+",
+                        "3.0 Good/Very Good",
+                        "3.5 Very Good-",
+                        "4.0 Very Good",
+                        "4.5 Very Good+",
+                        "5.0 Very Good/Fine",
+                        "5.5 Fine-",
+                        "6.0 Fine",
+                        "6.5 Fine+",
+                        "7.0 Fine/Very Fine",
+                        "7.5 Very Fine-",
+                        "8.0 Very Fine",
+                        "8.5 Very Fine+",
+                        "9.0 Very Fine/Near Mint",
+                        "9.2 Near Mint-",
+                        "9.4 Near Mint",
+                        "9.6 Near Mint+",
+                        "9.8 Near Mint/Mint",
+                        "9.9 Mint"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Grade (type: STRING, constraint: SINGLE) | Examples: 0.5 Poor, 1.0 Fair, 1.5 Fair/Good, 1.8 Good-, 2.0 Good, 2.5 Good+, 3.0 Good/Very Good, 3.5 Very Good-, 4.0 Very Good, 4.5 Very Good+, ... etc.",
+            "title": "Grade"
+        },
+        "Professional Grader": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Certified Guaranty Company (CGC)",
+                        "Comic Book Certification Service (CBCS)",
+                        "Professional Grading Experts (PGX)"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Professional Grader (type: STRING, constraint: SINGLE) | Examples: Certified Guaranty Company (CGC), Comic Book Certification Service (CBCS), Professional Grading Experts (PGX)",
+            "title": "Professional Grader"
+        },
+        "Tradition": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "UK Comics",
+                        "US Comics"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Tradition (type: STRING, constraint: SINGLE) | Examples: UK Comics, US Comics",
+            "title": "Tradition"
+        },
+        "Certification Number": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Certification Number (type: STRING, constraint: SINGLE) | Examples: ",
+            "title": "Certification Number"
+        },
+        "Universe": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "Adventure Time",
+                            "Alien",
+                            "American Gods",
+                            "Archie",
+                            "Battlestar Galactica",
+                            "Buffy the Vampire Slayer",
+                            "Conan the Barbarian",
+                            "DC Universe",
+                            "Disney",
+                            "Doctor Who",
+                            "Dungeons & Dragons",
+                            "Firefly",
+                            "GI Joe",
+                            "Game of Thrones",
+                            "Gargoyles",
+                            "Life is Strange",
+                            "Marvel (MCU)",
+                            "My Little Pony",
+                            "Power Rangers",
+                            "Star Trek",
+                            "Star Wars",
+                            "Stargate",
+                            "Stranger Things",
+                            "Tarzan",
+                            "The Walking Dead",
+                            "Transformers",
+                            "Umbrella Academy",
+                            "World of Warcraft"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Universe (type: STRING, constraint: MULTI) | Examples: Adventure Time, Alien, American Gods, Archie, Battlestar Galactica, Buffy the Vampire Slayer, Conan the Barbarian, DC Universe, Disney, Doctor Who, ... etc.",
+            "title": "Universe"
+        },
+        "Cover Artist": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "Greg Capullo",
+                            "Greg Horn",
+                            "Greg Land",
+                            "Greg Smallwood",
+                            "Greg Tocchini"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Cover Artist (type: STRING, constraint: MULTI) | Examples: Adam Hughes, Bryan Hitch, Dustin Nguyen, Gabriele Dell'Otto, J. Scott Campbell, Jerome Ope\u00f1a, Joe Quesada, John Romita Jr., Kevin Wada, Michael Turner, ... etc.",
+            "title": "Cover Artist"
+        },
+        "Features": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "Fifth Printing",
+                            "First Printing",
+                            "Fourth Printing",
+                            "Second Printing",
+                            "Third Printing",
+                            "Variant Cover"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Features (type: STRING, constraint: MULTI) | Examples: First Printing, Second Printing, Third Printing, Fourth Printing, Fifth Printing, 1st Edition, Annual, Boarded, Certificates of Authenticity (COA) Included, Collector's Edition, ... etc.",
+            "title": "Features"
+        },
+        "Signed By": {
+            "anyOf": [
+                {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Signed By (type: STRING, constraint: MULTI) | Examples: Alan Moore, Brian K. Vaughan, Grant Morrison, Jack Kirby, Adam Hughes, Alex Ross, Alfredo Castelli, Allan Dye, Anant Pai, Andrea Lavezzolo, ... etc.",
+            "title": "Signed By"
+        },
+        "Unit of Sale": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Comic Book Lot",
+                        "Mixed Lot",
+                        "Not Specified",
+                        "Single Unit",
+                        "Unit of 2"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Unit of Sale (type: STRING, constraint: SINGLE) | Examples: Comic Book Lot, Mixed Lot, Not Specified, Single Unit, Unit of 2",
+            "title": "Unit Of Sale"
+        },
+        "Signed": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "No",
+                        "Yes"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Signed (type: STRING, constraint: SINGLE) | Examples: No, Yes",
+            "title": "Signed"
+        },
+        "Personalized": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "No",
+                        "Yes"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Personalized (type: STRING, constraint: SINGLE) | Examples: No, Yes",
+            "title": "Personalized"
+        },
+        "Inscribed": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "No",
+                        "Yes"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Inscribed (type: STRING, constraint: SINGLE) | Examples: No, Yes",
+            "title": "Inscribed"
+        },
+        "Vintage": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "No",
+                        "Yes"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Vintage (type: STRING, constraint: SINGLE) | Examples: No, Yes",
+            "title": "Vintage"
+        },
+        "Style": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Color",
+                        "Partial Color"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Style (type: STRING, constraint: SINGLE) | Examples: Black & White, Color, Partial Color",
+            "title": "Style"
+        },
+        "Story Title": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "A Puff of Smoke",
+                        "Absolute Batman: The Long Halloween",
+                        "Altitude",
+                        "Amazing Spider-Man: Venom Inc.",
+                        "Avengers: Hawkeye",
+                        "Avengers: Hawkeye: Earth's Mightiest Marksman",
+                        "Blackbird",
+                        "Captain Marvel: Monica Rambeau",
+                        "Children of Fire",
+                        "Crowded",
+                        "Deadshot: Beginnings",
+                        "Death Or Glory",
+                        "Doctor Strange: The Oath",
+                        "Doctor Strange: The Way of the Weird",
+                        "Doctor Voodoo: Avenger of the Supernatural",
+                        "Dr. Strange & Dr. Doom: Triumph & Torment",
+                        "Dragman",
+                        "Dungeon Days",
+                        "Eternals: Manifest Destiny",
+                        "Eternals: To Slay A God",
+                        "Eternity Girl",
+                        "Flavor",
+                        "From Hell",
+                        "Ghost World",
+                        "Hawkeye & Mockingbird: Ghosts",
+                        "Hawkeye by Matt Fraction & David Aja Omnibus",
+                        "Hawkeye: All-New Hawkeye",
+                        "Hawkeye: Avenging Archer",
+                        "Hawkeye: Blindspot",
+                        "Hawkeye: Hawkeyes",
+                        "Hawkeye: L.A. Woman",
+                        "Hawkeye: Little Hits",
+                        "Hawkeye: My Life as a Weapon",
+                        "Hawkeye: Rio Bravo",
+                        "Heavy Vinyl",
+                        "Hot Comb",
+                        "Is This How You See Me?",
+                        "Jack Kirby's Eternals Omnibus",
+                        "Justice League vs. Suicide Squad",
+                        "King of King Court",
+                        "Lost Girls",
+                        "Master of Kung Fu: Battleworld",
+                        "Meet The Skrulls",
+                        "Middlewest",
+                        "Minimum Carnage",
+                        "Monstress",
+                        "Ms Marvel: Kamala Khan",
+                        "Ms. Marvel: Civil War II",
+                        "Ms. Marvel: Crushed",
+                        "Ms. Marvel: Damage Per Second",
+                        "Ms. Marvel: Generation Why",
+                        "Ms. Marvel: Last Days",
+                        "Ms. Marvel: Mecca",
+                        "Ms. Marvel: No Normal",
+                        "Ms. Marvel: Super Famous",
+                        "Ms. Marvel: Teenage Wasteland",
+                        "Ms. Marvel: Time and Again",
+                        "Muvovum",
+                        "My Boyfriend Is A Bear",
+                        "My Heroes Have Always Been Junkies",
+                        "Neil Gaiman's Eternals",
+                        "Nemo: Heart of Ice",
+                        "Nemo: River of Ghosts",
+                        "Nemo: The Roses of Berlin",
+                        "Neverwhere",
+                        "Nextwave: Agents of H.A.T.E. \u2013 I Kick Your Face",
+                        "Nextwave: Agents of H.A.T.E. \u2013 This Is What They Want",
+                        "Old Man Hawkeye: An Eye for an Eye",
+                        "Old Man Hawkeye: The Whole World Blind",
+                        "On A Sunbeam",
+                        "Paying the Land",
+                        "Peterloo: Witness to a Massacre",
+                        "Shang-Chi: Master of Kung-Fu Omnibus",
+                        "Sin City: A Dame to Kill For",
+                        "Sin City: Family Values",
+                        "Sin City: Hell and Back",
+                        "Sin City: Just Another Saturday Night",
+                        "Sin City: Lost, Lonely, & Lethal",
+                        "Sin City: Sex & Violence",
+                        "Sin City: Silent Night",
+                        "Sin City: That Yellow Bastard",
+                        "Sin City: The Babe Wore Red and Other Stories",
+                        "Sin City: The Big Fat Kill",
+                        "Skyward",
+                        "Star Trek: The Next Generation: Ghosts",
+                        "Star Trek: The Next Generation: Intelligence Gathering",
+                        "Star Trek: The Next Generation: The Last Generation",
+                        "Star Trek: The Next Generation: The Modala Imperative",
+                        "Star Trek: The Next Generation: The Space Between",
+                        "Star Trek: The Next Generation\u2014Ill Wind",
+                        "Star Trek: The Next Generation\u2014Shadowheart",
+                        "Star Trek: The Next Generation\u2014The Series Finale",
+                        "Star Wars Hasbro/Toys 'R' Us Exclusive",
+                        "Star Wars \u2013 Free Comic Book Day 2005 Special",
+                        "Star Wars \u2013 Free Comic Book Day 2006 Special",
+                        "Star Wars: Boba Fett \u2014 Agent of Doom",
+                        "Star Wars: Boba Fett \u2014 Enemy of the Empire",
+                        "Star Wars: Boba Fett \u2014 Overkill",
+                        "Star Wars: Boba Fett \u2014 Twin Engines of Destruction",
+                        "Suicide Squad Most Wanted: Deadshot",
+                        "Suicide Squad Most Wanted: El Diablo",
+                        "Suicide Squad Most Wanted: Katana",
+                        "Suicide Squad: Apokolips Now",
+                        "Suicide Squad: Discipline and Punish",
+                        "Suicide Squad: Rogues",
+                        "Suicide Squad: The Janus Directive",
+                        "Suicide Squad: The Nightshade Odyssey",
+                        "Suicide Squad: The Phoenix Gambit",
+                        "Suicide Squad: The Silver Age Omnibus",
+                        "Suicide Squad: Trial By Fire",
+                        "Summer Spirit",
+                        "Sweet Tooth: Animal Armies",
+                        "Sweet Tooth: Endangered Species",
+                        "Sweet Tooth: In Captivity",
+                        "Sweet Tooth: Out of the Deep Woods",
+                        "Sweet Tooth: The Return",
+                        "Sweet Tooth: Unnatural Habitats",
+                        "Sweet Tooth: Wild Game",
+                        "The Book of Forks",
+                        "The Incal",
+                        "The League of Extraordinary Gentlemen, The Black Dossier",
+                        "The Loneliness of the Long-Distance Cartoonist",
+                        "The Magnificent Ms. Marvel: Destined",
+                        "The Magnificent Ms. Marvel: Stormranger",
+                        "The Man Without Talent",
+                        "The River at Night",
+                        "The Unstoppable Wasp",
+                        "The Weatherman",
+                        "The Wolf of Baghdad",
+                        "Thor: The Deviants Saga",
+                        "Thor: The Eternals Saga",
+                        "V for Vendetta",
+                        "Vampironica",
+                        "Venom: Along Came a Spider...",
+                        "Venom: Carnage Unleashed",
+                        "Venom: Dark Origin",
+                        "Venom: Devil's Pack",
+                        "Venom: Lethal Protector",
+                        "Venom: Separation Anxiety",
+                        "Venom: The Enemy Within",
+                        "Venom: The Land Where Killers Dwell",
+                        "Venom: The Savage Six",
+                        "Venom: Toxin With a Vengeance!",
+                        "Venomnibus",
+                        "Welcome to the New World"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Story Title (type: STRING, constraint: SINGLE) | Examples: Absolute Batman: The Long Halloween, Altitude, Amazing Spider-Man: Venom Inc., A Puff of Smoke, Avengers: Hawkeye, Avengers: Hawkeye: Earth's Mightiest Marksman, Blackbird, Captain Marvel: Monica Rambeau, Children of Fire, Crowded, ... etc.",
+            "title": "Story Title"
+        },
+        "Variant Type": {
+            "anyOf": [
+                {
+                    "items": {
+                        "enum": [
+                            "Blank Cover Variant",
+                            "Corner Box Variant",
+                            "Cover Variant - A",
+                            "Cover Variant - Artist Cover",
+                            "Cover Variant - Auxiliary",
+                            "Cover Variant - B",
+                            "Cover Variant - C",
+                            "Cover Variant - Child Life Shoes",
+                            "Cover Variant - D",
+                            "Cover Variant - E",
+                            "Cover Variant - F",
+                            "Cover Variant - Gore",
+                            "Cover Variant - Jumping Jacks",
+                            "Cover Variant - Monsters of the Month",
+                            "Custom Art Cover",
+                            "DC Combo Pack Variant",
+                            "DVD Variant",
+                            "Diamond Retailer Summit Variant",
+                            "Error/Recalled Variant",
+                            "Free Comic Book Day Variant",
+                            "Incentive Variant",
+                            "Mail-Away Variant",
+                            "Mark Jeweler Variant",
+                            "Newsstand Variant",
+                            "Non-Ad Cover Variant",
+                            "Price Variant",
+                            "Retailer Exclusive Variant",
+                            "Retailer Roundtable Program (RRP) Variant",
+                            "Store Variant",
+                            "Subscription Variant",
+                            "Toy Variant",
+                            "Virgin Variant",
+                            "Whitman Variant"
+                        ],
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Variant Type (type: STRING, constraint: MULTI) | Examples: Blank Cover Variant, Corner Box Variant, Cover Variant - A, Cover Variant - Artist Cover, Cover Variant - Auxiliary, Cover Variant - B, Cover Variant - C, Cover Variant - Child Life Shoes, Cover Variant - D, Cover Variant - E, ... etc.",
+            "title": "Variant Type"
+        },
+        "Language": {
+            "anyOf": [
+                {
+                    "items": {
+                        "const": "English",
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Language (type: STRING, constraint: MULTI) | Examples: Afrikaans, Albanian, Amharic, Arabic, Armenian, Bashkir, Basque, Bengali, Bulgarian, Burmese, ... etc.",
+            "title": "Language"
+        },
+        "Country/Region of Manufacture": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Micronesia, Federated States of",
+                        "Tanzania, United Republic of",
+                        "United Arab Emirates",
+                        "United Kingdom",
+                        "United States"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Country/Region of Manufacture (type: STRING, constraint: SINGLE) | Examples: Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, ... etc.",
+            "title": "Country/Region Of Manufacture"
+        },
+        "Convention/Event": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "AlienCon",
+                        "Angoul\u00eame International Comic Festival",
+                        "Anime Expo",
+                        "Barcelona International Comic Fair",
+                        "Cardiff Independent Comic Expo",
+                        "Comic Market Japan (Comiket)",
+                        "D23 Expo",
+                        "Destination Star Trek",
+                        "Doctor Who Event",
+                        "DragonCon",
+                        "E3 Expo",
+                        "Edinburgh Comic Con",
+                        "Emerald City Comic Con",
+                        "Famous Monsters Convention",
+                        "Fan Expo Canada",
+                        "Free Comic Day",
+                        "Glasgow Comic Con",
+                        "International Comic Expo",
+                        "Japan Expo",
+                        "London Comic Con (MCM)",
+                        "London Film & Comic Con",
+                        "Los Angeles Comic Con",
+                        "MCM Scotland",
+                        "MegaCon",
+                        "New York Comic Con",
+                        "Nor Con",
+                        "Official Xena Convention",
+                        "Paley Festival",
+                        "Portsmouth Comic Con",
+                        "Pride",
+                        "Sal\u00f3 del Manga de Barcelona",
+                        "San Diego Comic Con",
+                        "Star Wars Celebration",
+                        "Star Wars Celebration Europe",
+                        "Star Wars Exhibition Tokyo",
+                        "Star Wars Galactic Nights",
+                        "Star Wars Marathon Event Hollywood",
+                        "Star Wars Rogue One Premiere",
+                        "Star Wars SOLO Premiere",
+                        "Star Wars The Force Awakens Premiere",
+                        "Star Wars Weekends",
+                        "Wonder Festival",
+                        "Wondercon",
+                        "World Fantasy Convention",
+                        "World Science Fiction Convention"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Convention/Event (type: STRING, constraint: SINGLE) | Examples: AlienCon, Angoul\u00eame International Comic Festival, Anime Expo, Barcelona International Comic Fair, Cardiff Independent Comic Expo, Comic Market Japan (Comiket), D23 Expo, Destination Star Trek, Doctor Who Event, DragonCon, ... etc.",
+            "title": "Convention/Event"
+        },
+        "Autograph Authentication": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Beckett Authentication Services (BAS)",
+                        "Certified Guaranty Company (CGC)",
+                        "Comic Book Certification Service (CBCS)",
+                        "Professional Sports Authenticator (PSA)",
+                        "Upper Deck"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Autograph Authentication (type: STRING, constraint: SINGLE) | Examples: Beckett Authentication Services (BAS), Certified Guaranty Company (CGC), Comic Book Certification Service (CBCS), Professional Sports Authenticator (PSA), Upper Deck",
+            "title": "Autograph Authentication"
+        },
+        "Intended Audience": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Children & Young Adults",
+                        "General Audience",
+                        "Viewer Discretion Advised"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Intended Audience (type: STRING, constraint: SINGLE) | Examples: Children & Young Adults, General Audience, Viewer Discretion Advised",
+            "title": "Intended Audience"
+        },
+        "Autograph Authentication Number": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Autograph Authentication Number (type: STRING, constraint: SINGLE) | Examples: ",
+            "title": "Autograph Authentication Number"
+        },
+        "California Prop 65 Warning": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "California Prop 65 Warning (type: STRING, constraint: SINGLE) | Examples: ",
+            "title": "California Prop 65 Warning"
+        },
+        "Issue Number": {
+            "anyOf": [
+                {
+                    "const": "1",
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Issue Number (type: STRING, constraint: SINGLE) | Examples: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ... etc.",
+            "title": "Issue Number"
+        },
+        "Unit Quantity": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Unit Quantity (type: STRING, constraint: SINGLE) | Examples: ",
+            "title": "Unit Quantity"
+        },
+        "Unit Type": {
+            "anyOf": [
+                {
+                    "enum": [
+                        "Unit",
+                        "fl oz",
+                        "ft",
+                        "ft\u00b2",
+                        "ft\u00b3",
+                        "gal",
+                        "lb",
+                        "oz"
+                    ],
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "description": "Unit Type (type: STRING, constraint: SINGLE) | Examples: Unit, oz, lb, fl oz, gal, ft, ft\u00b2, ft\u00b3",
+            "title": "Unit Type"
+        }
+    },
+    "title": "ComicAspects",
+    "type": "object"
+}
